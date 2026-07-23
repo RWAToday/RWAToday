@@ -1,0 +1,41 @@
+<svg width="1200" height="628" viewBox="0 0 1200 628" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>What Is a DAO? RWA For the Rest of Us Part 06 — RWAToday.news</title>
+<desc>Graphic explaining DAO governance — token holders vote, smart contract executes, with the HOA analogy</desc>
+<rect width="1200" height="628" fill="#080E0A"/>
+<rect width="1200" height="8" fill="#3DAA6E"/>
+<text x="60" y="66" font-family="Arial Narrow,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="4" fill="#3DAA6E">RWATODAY.NEWS  ·  RWA FOR THE REST OF US  ·  PART 06</text>
+<text x="60" y="148" font-family="Georgia,serif" font-size="62" font-weight="700" fill="#F0F4FA">What is a DAO?</text>
+<text x="60" y="210" font-family="Georgia,serif" font-size="36" fill="#5A8068">The voting system that runs</text>
+<text x="60" y="258" font-family="Georgia,serif" font-size="36" fill="#3DAA6E">without a boss.</text>
+<line x1="60" y1="284" x2="1140" y2="284" stroke="#1E4028" stroke-width="1"/>
+<rect x="60" y="304" width="230" height="148" rx="6" fill="#112418" stroke="#265235" stroke-width="1"/>
+<text x="175" y="334" font-family="Arial Narrow,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#3DAA6E" text-anchor="middle">PROPOSE</text>
+<text x="175" y="362" font-family="Georgia,serif" font-size="26" font-weight="700" fill="#F0F4FA" text-anchor="middle">01</text>
+<text x="175" y="392" font-family="Arial Narrow,Arial,sans-serif" font-size="13" fill="#5A8068" text-anchor="middle">Token holder</text>
+<text x="175" y="410" font-family="Arial Narrow,Arial,sans-serif" font-size="13" fill="#5A8068" text-anchor="middle">submits change</text>
+<text x="175" y="436" font-family="Arial Narrow,Arial,sans-serif" font-size="11" fill="#3A5A48" text-anchor="middle">Min. threshold required</text>
+<text x="306" y="386" font-family="Arial Narrow,Arial,sans-serif" font-size="22" fill="#265235" text-anchor="middle">→</text>
+<rect x="320" y="304" width="230" height="148" rx="6" fill="#112418" stroke="#265235" stroke-width="1"/>
+<text x="435" y="334" font-family="Arial Narrow,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#3DAA6E" text-anchor="middle">DISCUSS</text>
+<text x="435" y="362" font-family="Georgia,serif" font-size="26" font-weight="700" fill="#F0F4FA" text-anchor="middle">02</text>
+<text x="435" y="392" font-family="Arial Narrow,Arial,sans-serif" font-size="13" fill="#5A8068" text-anchor="middle">Community</text>
+<text x="435" y="410" font-family="Arial Narrow,Arial,sans-serif" font-size="13" fill="#5A8068" text-anchor="middle">debate period</text>
+<text x="435" y="436" font-family="Arial Narrow,Arial,sans-serif" font-size="11" fill="#3A5A48" text-anchor="middle">Off-chain, not binding</text>
+<text x="566" y="386" font-family="Arial Narrow,Arial,sans-serif" font-size="22" fill="#265235" text-anchor="middle">→</text>
+<rect x="580" y="304" width="230" height="148" rx="6" fill="#112418" stroke="#265235" stroke-width="1"/>
+<text x="695" y="334" font-family="Arial Narrow,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#3DAA6E" text-anchor="middle">VOTE</text>
+<text x="695" y="362" font-family="Georgia,serif" font-size="26" font-weight="700" fill="#F0F4FA" text-anchor="middle">03</text>
+<text x="695" y="392" font-family="Arial Narrow,Arial,sans-serif" font-size="13" fill="#5A8068" text-anchor="middle">On-chain vote</text>
+<text x="695" y="410" font-family="Arial Narrow,Arial,sans-serif" font-size="13" fill="#5A8068" text-anchor="middle">3-7 day window</text>
+<text x="695" y="436" font-family="Arial Narrow,Arial,sans-serif" font-size="11" fill="#3A5A48" text-anchor="middle">Quorum required</text>
+<text x="826" y="386" font-family="Arial Narrow,Arial,sans-serif" font-size="22" fill="#265235" text-anchor="middle">→</text>
+<rect x="840" y="304" width="304" height="148" rx="6" fill="#1A4028" stroke="#3DAA6E" stroke-width="1.5"/>
+<text x="992" y="334" font-family="Arial Narrow,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#3DAA6E" text-anchor="middle">EXECUTE</text>
+<text x="992" y="362" font-family="Georgia,serif" font-size="26" font-weight="700" fill="#F0F4FA" text-anchor="middle">04</text>
+<text x="992" y="392" font-family="Arial Narrow,Arial,sans-serif" font-size="13" fill="#7CC49A" text-anchor="middle">Smart contract</text>
+<text x="992" y="410" font-family="Arial Narrow,Arial,sans-serif" font-size="13" fill="#7CC49A" text-anchor="middle">auto-executes</text>
+<text x="992" y="436" font-family="Arial Narrow,Arial,sans-serif" font-size="11" fill="#5DC48A" text-anchor="middle">No human required</text>
+<text x="60" y="510" font-family="Arial Narrow,Arial,sans-serif" font-size="15" fill="#5A8068">⚠️  A DAO where 3 wallets hold 80% of tokens isn't decentralized. Check the distribution.</text>
+<text x="60" y="560" font-family="Arial Narrow,Arial,sans-serif" font-size="14" fill="#3A5A48">Part of the RWA For the Rest of Us beginner series — Parts 01-05 also live</text>
+<text x="60" y="592" font-family="Arial Narrow,Arial,sans-serif" font-size="14" fill="#3A5A48">rwatoday.news/rwa-for-the-rest-of-us-dao.html</text>
+</svg>

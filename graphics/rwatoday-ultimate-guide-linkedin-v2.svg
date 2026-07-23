@@ -1,0 +1,33 @@
+<svg width="1200" height="628" viewBox="0 0 1200 628" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>LinkedIn graphic v2 — The Ultimate Guide to RWA Tokenization 2026 — stat-forward design</title>
+<desc>Three large market stat cards with article headline for RWAToday.news Ultimate Guide</desc>
+
+<rect width="1200" height="628" fill="#080E0A"/>
+<rect x="0" y="0" width="1200" height="8" fill="#3DAA6E"/>
+
+<text x="60" y="74" font-family="Arial Narrow, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="4" fill="#3DAA6E">RWATODAY.NEWS</text>
+
+<text x="60" y="158" font-family="Georgia, serif" font-size="66" font-weight="700" fill="#F0F4FA">The market is moving.</text>
+<text x="60" y="238" font-family="Georgia, serif" font-size="66" font-weight="700" fill="#3DAA6E">Do you understand it?</text>
+
+<line x1="60" y1="264" x2="1140" y2="264" stroke="#1E4028" stroke-width="1"/>
+
+<rect x="60" y="290" width="334" height="168" rx="8" fill="#112418" stroke="#265235" stroke-width="1"/>
+<text x="227" y="378" font-family="Georgia, serif" font-size="60" font-weight="700" fill="#3DAA6E" text-anchor="middle">$63B</text>
+<text x="227" y="414" font-family="Arial Narrow, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="2" fill="#5A8068" text-anchor="middle">RWA ON-CHAIN TODAY</text>
+<text x="227" y="438" font-family="Arial Narrow, Arial, sans-serif" font-size="12" fill="#3A5A48" text-anchor="middle">Up from $1B in 2022</text>
+
+<rect x="433" y="290" width="334" height="168" rx="8" fill="#112418" stroke="#265235" stroke-width="1"/>
+<text x="600" y="378" font-family="Georgia, serif" font-size="60" font-weight="700" fill="#3DAA6E" text-anchor="middle">$114T</text>
+<text x="600" y="414" font-family="Arial Narrow, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="2" fill="#5A8068" text-anchor="middle">DTCC GOES ON-CHAIN</text>
+<text x="600" y="438" font-family="Arial Narrow, Arial, sans-serif" font-size="12" fill="#3A5A48" text-anchor="middle">July 2026</text>
+
+<rect x="806" y="290" width="334" height="168" rx="8" fill="#112418" stroke="#265235" stroke-width="1"/>
+<text x="973" y="378" font-family="Georgia, serif" font-size="60" font-weight="700" fill="#3DAA6E" text-anchor="middle">$10T</text>
+<text x="973" y="414" font-family="Arial Narrow, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="2" fill="#5A8068" text-anchor="middle">PROJECTED BY 2030</text>
+<text x="973" y="438" font-family="Arial Narrow, Arial, sans-serif" font-size="12" fill="#3A5A48" text-anchor="middle">Per institutional forecasts</text>
+
+<text x="60" y="530" font-family="Georgia, serif" font-size="28" font-weight="700" fill="#F0F4FA">The Ultimate Guide to RWA Tokenization in 2026</text>
+<text x="60" y="566" font-family="Arial Narrow, Arial, sans-serif" font-size="16" fill="#5A8068">Asset classes · Protocols · Regulation · How to participate · Risk — all in one place</text>
+<text x="60" y="596" font-family="Arial Narrow, Arial, sans-serif" font-size="14" fill="#3A5A48">rwatoday.news/ultimate-guide-rwa-tokenization-2026.html</text>
+</svg>

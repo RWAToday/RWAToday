@@ -1,0 +1,27 @@
+<svg width="1200" height="628" viewBox="0 0 1200 628" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>KKR Tokenized PE Fund on Avalanche — RWA Case Study #03 — RWAToday.news</title>
+<desc>Graphic showing the contrast between traditional private equity access and KKR's tokenized fund on Avalanche</desc>
+<rect width="1200" height="628" fill="#080E0A"/>
+<rect width="1200" height="8" fill="#3DAA6E"/>
+<text x="60" y="66" font-family="Arial Narrow,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="4" fill="#3DAA6E">RWATODAY.NEWS  ·  RWA CASE STUDIES  ·  #03</text>
+<text x="60" y="152" font-family="Georgia,serif" font-size="52" font-weight="700" fill="#F0F4FA">KKR tokenized a private</text>
+<text x="60" y="216" font-family="Georgia,serif" font-size="52" font-weight="700" fill="#F0F4FA">equity fund on Avalanche.</text>
+<text x="60" y="286" font-family="Georgia,serif" font-size="32" font-weight="700" fill="#3DAA6E">$500B AUM. First top-5 PE manager to do it.</text>
+<line x1="60" y1="314" x2="1140" y2="314" stroke="#1E4028" stroke-width="1"/>
+<rect x="60" y="334" width="510" height="168" rx="8" fill="#0E1A10" stroke="#1E4028" stroke-width="1"/>
+<text x="315" y="368" font-family="Arial Narrow,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#3A5A48" text-anchor="middle">TRADITIONAL PRIVATE EQUITY</text>
+<text x="315" y="396" font-family="Arial Narrow,Arial,sans-serif" font-size="15" fill="#2E4A38" text-anchor="middle">$1M+ minimum investment</text>
+<text x="315" y="420" font-family="Arial Narrow,Arial,sans-serif" font-size="15" fill="#2E4A38" text-anchor="middle">7-10 year lock-up</text>
+<text x="315" y="444" font-family="Arial Narrow,Arial,sans-serif" font-size="15" fill="#2E4A38" text-anchor="middle">Institutional access only</text>
+<text x="315" y="468" font-family="Arial Narrow,Arial,sans-serif" font-size="15" fill="#2E4A38" text-anchor="middle">T+5 settlement, paper records</text>
+<text x="315" y="492" font-family="Arial Narrow,Arial,sans-serif" font-size="14" fill="#1E3020" text-anchor="middle">Returns: 20-25% annually (top quartile)</text>
+<rect x="630" y="334" width="510" height="168" rx="8" fill="#112418" stroke="#3DAA6E" stroke-width="1.5"/>
+<text x="885" y="368" font-family="Arial Narrow,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2" fill="#3DAA6E" text-anchor="middle">KKR TOKENIZED (AVALANCHE)</text>
+<text x="885" y="396" font-family="Arial Narrow,Arial,sans-serif" font-size="15" fill="#7CC49A" text-anchor="middle">Lower minimum threshold</text>
+<text x="885" y="420" font-family="Arial Narrow,Arial,sans-serif" font-size="15" fill="#7CC49A" text-anchor="middle">Same lock-up (honest trade-off)</text>
+<text x="885" y="444" font-family="Arial Narrow,Arial,sans-serif" font-size="15" fill="#7CC49A" text-anchor="middle">Accredited investors via Securitize</text>
+<text x="885" y="468" font-family="Arial Narrow,Arial,sans-serif" font-size="15" fill="#7CC49A" text-anchor="middle">On-chain positions, smart contract distributions</text>
+<text x="885" y="492" font-family="Arial Narrow,Arial,sans-serif" font-size="14" fill="#3DAA6E" text-anchor="middle">Same underlying fund strategy &amp; returns</text>
+<text x="60" y="560" font-family="Arial Narrow,Arial,sans-serif" font-size="14" fill="#3A5A48">September 2022  ·  Healthcare Strategic Growth Fund II  ·  Securitize infrastructure</text>
+<text x="60" y="592" font-family="Arial Narrow,Arial,sans-serif" font-size="14" fill="#3A5A48">rwatoday.news/rwa-case-study-kkr-avalanche.html</text>
+</svg>

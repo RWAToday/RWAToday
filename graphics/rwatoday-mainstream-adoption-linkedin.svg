@@ -1,0 +1,27 @@
+<svg width="1200" height="628" viewBox="0 0 1200 628" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="628" fill="#080E0A"/>
+<rect width="1200" height="8" fill="#3DAA6E"/>
+<text x="60" y="66" font-family="Arial Narrow,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="4" fill="#3DAA6E">RWATODAY.NEWS  ·  ANALYSIS  ·  ADOPTION</text>
+<text x="60" y="148" font-family="Georgia,serif" font-size="46" font-weight="700" fill="#F0F4FA">RWA mainstream adoption:</text>
+<text x="60" y="206" font-family="Georgia,serif" font-size="46" font-weight="700" fill="#3DAA6E">what needs to happen.</text>
+<line x1="60" y1="232" x2="1140" y2="232" stroke="#1E4028" stroke-width="1"/>
+<!-- Gap stat -->
+<rect x="60" y="252" width="340" height="112" rx="6" fill="#112418" stroke="#3DAA6E" stroke-width="1.5"/>
+<text x="230" y="286" font-family="Arial Narrow,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2" fill="#3DAA6E" text-anchor="middle">THE GAP</text>
+<text x="230" y="324" font-family="Georgia,serif" font-size="28" font-weight="700" fill="#F0F4FA" text-anchor="middle">930K holders</text>
+<text x="230" y="352" font-family="Arial Narrow,Arial,sans-serif" font-size="13" fill="#5A8068" text-anchor="middle">vs PayPal's 400 million accounts</text>
+<!-- 6 barriers -->
+<text x="440" y="270" font-family="Arial Narrow,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#3DAA6E">6 BARRIERS TO CLEAR</text>
+<text x="440" y="298" font-family="Arial Narrow,Arial,sans-serif" font-size="14" fill="#A8C4B0">01 — Regulatory clarity for retail access</text>
+<text x="440" y="322" font-family="Arial Narrow,Arial,sans-serif" font-size="14" fill="#A8C4B0">02 — On-ramps that feel like a bank app</text>
+<text x="440" y="346" font-family="Arial Narrow,Arial,sans-serif" font-size="14" fill="#A8C4B0">03 — Secondary market liquidity</text>
+<text x="780" y="298" font-family="Arial Narrow,Arial,sans-serif" font-size="14" fill="#A8C4B0">04 — Real education, not marketing</text>
+<text x="780" y="322" font-family="Arial Narrow,Arial,sans-serif" font-size="14" fill="#A8C4B0">05 — Cross-chain interoperability</text>
+<text x="780" y="346" font-family="Arial Narrow,Arial,sans-serif" font-size="14" fill="#A8C4B0">06 — Institutional custody integration</text>
+<line x1="60" y1="382" x2="1140" y2="382" stroke="#1E4028" stroke-width="1"/>
+<text x="60" y="416" font-family="Arial Narrow,Arial,sans-serif" font-size="13" fill="#5A8068">The technology works. The GENIUS Act is done. Ondo is on MetaMask. BUIDL is on Uniswap. The DTCC is launching this month.</text>
+<text x="60" y="444" font-family="Arial Narrow,Arial,sans-serif" font-size="15" font-weight="600" fill="#A8C4B0">None of these barriers are permanent. The market is accumulating the conditions for all of them simultaneously.</text>
+<text x="60" y="490" font-family="Arial Narrow,Arial,sans-serif" font-size="13" fill="#3A5A48">The first mainstream RWA product will be tokenized government bonds inside a major retail bank's mobile app.</text>
+<text x="60" y="516" font-family="Arial Narrow,Arial,sans-serif" font-size="13" fill="#3A5A48">You won't need to know what blockchain it's on.</text>
+<text x="60" y="592" font-family="Arial Narrow,Arial,sans-serif" font-size="14" fill="#3A5A48">rwatoday.news/rwa-mainstream-adoption-what-needs-to-happen</text>
+</svg>

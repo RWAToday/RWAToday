@@ -1,0 +1,49 @@
+<svg width="1200" height="628" viewBox="0 0 1200 628" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>RWA This Week Issue 004 — Goldman Sachs, Japan DVP, DTCC — RWAToday.news</title>
+<rect width="1200" height="628" fill="#080E0A"/>
+<rect width="1200" height="8" fill="#3DAA6E"/>
+
+<text x="60" y="66" font-family="Arial Narrow,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="4" fill="#3DAA6E">RWATODAY.NEWS  ·  RWA THIS WEEK  ·  ISSUE #004  ·  JUNE 17, 2026</text>
+
+<text x="60" y="148" font-family="Georgia,serif" font-size="50" font-weight="700" fill="#F0F4FA">The institutional</text>
+<text x="60" y="210" font-family="Georgia,serif" font-size="50" font-weight="700" fill="#3DAA6E">infrastructure is assembling.</text>
+
+<line x1="60" y1="238" x2="1140" y2="238" stroke="#1E4028" stroke-width="1"/>
+
+<!-- Story 1 -->
+<rect x="60" y="258" width="528" height="100" rx="6" fill="#112418" stroke="#265235" stroke-width="1"/>
+<rect x="60" y="258" width="4" height="100" rx="2" fill="#3DAA6E"/>
+<text x="80" y="286" font-family="Arial Narrow,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#3DAA6E">INSTITUTIONAL</text>
+<text x="80" y="310" font-family="Arial Narrow,Arial,sans-serif" font-size="16" font-weight="700" fill="#F0F4FA">Goldman Sachs tokenized real estate fund</text>
+<text x="80" y="332" font-family="Arial Narrow,Arial,sans-serif" font-size="13" fill="#5A8068">GS DAP + Apex Group + Archax (FCA-regulated)</text>
+<text x="80" y="350" font-family="Arial Narrow,Arial,sans-serif" font-size="12" fill="#3A5A48">Bulge-bracket bank issues tokenized real estate product</text>
+
+<!-- Story 2 -->
+<rect x="612" y="258" width="528" height="100" rx="6" fill="#112418" stroke="#265235" stroke-width="1"/>
+<rect x="612" y="258" width="4" height="100" rx="2" fill="#3DAA6E"/>
+<text x="632" y="286" font-family="Arial Narrow,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#3DAA6E">INFRASTRUCTURE</text>
+<text x="632" y="310" font-family="Arial Narrow,Arial,sans-serif" font-size="16" font-weight="700" fill="#F0F4FA">Japan completes first DVP settlement</text>
+<text x="632" y="332" font-family="Arial Narrow,Arial,sans-serif" font-size="13" fill="#5A8068">Security tokens settled using DCJPY (digital yen)</text>
+<text x="632" y="350" font-family="Arial Narrow,Arial,sans-serif" font-size="12" fill="#3A5A48">T+0 atomic settlement — live, outside the US</text>
+
+<!-- Story 3 -->
+<rect x="60" y="374" width="340" height="88" rx="6" fill="#0E1A10" stroke="#1E4028" stroke-width="1"/>
+<text x="80" y="400" font-family="Arial Narrow,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#5A8068">DTCC</text>
+<text x="80" y="424" font-family="Arial Narrow,Arial,sans-serif" font-size="18" font-weight="700" fill="#F0F4FA">Two weeks to go-live</text>
+<text x="80" y="448" font-family="Arial Narrow,Arial,sans-serif" font-size="12" fill="#3A5A48">$114T annual clearing volume</text>
+
+<!-- Story 4 -->
+<rect x="420" y="374" width="340" height="88" rx="6" fill="#0E1A10" stroke="#1E4028" stroke-width="1"/>
+<text x="440" y="400" font-family="Arial Narrow,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#5A8068">SPACEX</text>
+<text x="440" y="424" font-family="Arial Narrow,Arial,sans-serif" font-size="18" font-weight="700" fill="#F0F4FA">SPCX — one week recap</text>
+<text x="440" y="448" font-family="Arial Narrow,Arial,sans-serif" font-size="12" fill="#3A5A48">Market pricing legal structures correctly</text>
+
+<!-- Story 5 -->
+<rect x="780" y="374" width="360" height="88" rx="6" fill="#0E1A10" stroke="#1E4028" stroke-width="1"/>
+<text x="800" y="400" font-family="Arial Narrow,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#5A8068">DEFI + RWA</text>
+<text x="800" y="424" font-family="Arial Narrow,Arial,sans-serif" font-size="18" font-weight="700" fill="#F0F4FA">Curve debt tokenization</text>
+<text x="800" y="448" font-family="Arial Narrow,Arial,sans-serif" font-size="12" fill="#3A5A48">DeFi builders treating RWA as primary use case</text>
+
+<text x="60" y="524" font-family="Arial Narrow,Arial,sans-serif" font-size="13" fill="#3A5A48">Also: PwC "Minting the Future" · Citibank "Tokenization 2030: Wall Street On-Chain" both published this week</text>
+<text x="60" y="592" font-family="Arial Narrow,Arial,sans-serif" font-size="14" fill="#3A5A48">rwatoday.news/rwa-this-week-004.html</text>
+</svg>

@@ -1016,4 +1016,59 @@
       <news:keywords>XRPL RWA 4 billion 2026, JPMorgan Ripple Mastercard Ondo cross-border settlement, XRP Ledger tokenization growth</news:keywords>
     </news:news>
   </url>
+  <url>
+    <loc>https://rwatoday.news/rwa-this-week-008</loc>
+    <lastmod>2026-07-23</lastmod>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication><news:name>RWAToday.news</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-07-23</news:publication_date>
+      <news:title>RWA This Week Issue 008 July 23 2026</news:title>
+      <news:keywords>RWA This Week 008, DTCC tokenized July 15, CLARITY Act stalled, GENIUS Act January 2027, UK tokenization taskforce</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://rwatoday.news/dtcc-tokenized-securities-live-production-july-15-2026</loc>
+    <lastmod>2026-07-23</lastmod>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication><news:name>RWAToday.news</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-07-23</news:publication_date>
+      <news:title>DTCC Live Tokenized Securities Production July 15 2026 Microsoft SPY QQQ</news:title>
+      <news:keywords>DTCC tokenized securities July 15 2026, DTC Tokenization Service, DTCC BlackRock Goldman JPMorgan tokenized stocks, DTCC ComposerX October 2026</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://rwatoday.news/clarity-act-stalled-senate-recess-what-happened-2026</loc>
+    <lastmod>2026-07-23</lastmod>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication><news:name>RWAToday.news</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-07-23</news:publication_date>
+      <news:title>CLARITY Act Stalled Senate Recess August 2026 What Happened</news:title>
+      <news:keywords>CLARITY Act stalled 2026, CLARITY Act Senate recess failed, crypto regulation 2026 Senate delay, CLARITY Act 2027</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://rwatoday.news/genius-act-one-year-anniversary-rules-update-2026</loc>
+    <lastmod>2026-07-23</lastmod>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication><news:name>RWAToday.news</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-07-23</news:publication_date>
+      <news:title>GENIUS Act One Year Anniversary Rules Update Effective Date January 2027</news:title>
+      <news:keywords>GENIUS Act one year 2026, GENIUS Act implementing rules pending, GENIUS Act effective date January 2027, stablecoin rules OCC proposal</news:keywords>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://rwatoday.news/uk-tokenization-taskforce-54-firms-digital-gilt-2026</loc>
+    <lastmod>2026-07-23</lastmod>
+    <priority>0.9</priority>
+    <news:news>
+      <news:publication><news:name>RWAToday.news</news:name><news:language>en</news:language></news:publication>
+      <news:publication_date>2026-07-23</news:publication_date>
+      <news:title>UK Tokenization Taskforce 54 Firms Digital Gilt 2027 US UK Transatlantic</news:title>
+      <news:keywords>UK tokenization taskforce 2026, Digital Gilt UK 2027, HSBC Orion Bank of England sandbox, US UK transatlantic tokenization framework</news:keywords>
+    </news:news>
+  </url>
 </urlset>

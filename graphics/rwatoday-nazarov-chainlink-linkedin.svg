@@ -1,0 +1,29 @@
+<svg width="1200" height="628" viewBox="0 0 1200 628" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="628" fill="#080E0A"/>
+<rect width="1200" height="8" fill="#3DAA6E"/>
+<text x="60" y="66" font-family="Arial Narrow,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="4" fill="#3DAA6E">RWATODAY.NEWS  ·  TOP VOICES IN RWA  ·  #04</text>
+<text x="60" y="148" font-family="Georgia,serif" font-size="52" font-weight="700" fill="#F0F4FA">Sergey Nazarov</text>
+<text x="60" y="210" font-family="Georgia,serif" font-size="52" font-weight="700" fill="#3DAA6E">Chainlink</text>
+<text x="60" y="258" font-family="Georgia,serif" font-size="22" font-weight="400" fill="#5A8068">Building the infrastructure underneath every RWA protocol</text>
+<line x1="60" y1="284" x2="1140" y2="284" stroke="#1E4028" stroke-width="1"/>
+<rect x="60" y="304" width="340" height="136" rx="6" fill="#112418" stroke="#3DAA6E" stroke-width="1.5"/>
+<rect x="60" y="304" width="4" height="136" rx="2" fill="#3DAA6E"/>
+<text x="82" y="334" font-family="Arial Narrow,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#3DAA6E">ORACLES</text>
+<text x="82" y="358" font-family="Arial Narrow,Arial,sans-serif" font-size="15" font-weight="600" fill="#F0F4FA">Real-world data on-chain</text>
+<text x="82" y="380" font-family="Arial Narrow,Arial,sans-serif" font-size="13" fill="#5A8068">Every RWA price feed, yield</text>
+<text x="82" y="398" font-family="Arial Narrow,Arial,sans-serif" font-size="13" fill="#5A8068">calculation, and collateral check</text>
+<rect x="420" y="304" width="340" height="136" rx="6" fill="#112418" stroke="#265235" stroke-width="1"/>
+<rect x="420" y="304" width="4" height="136" rx="2" fill="#3DAA6E"/>
+<text x="442" y="334" font-family="Arial Narrow,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#3DAA6E">CCIP</text>
+<text x="442" y="358" font-family="Arial Narrow,Arial,sans-serif" font-size="15" font-weight="600" fill="#F0F4FA">Cross-chain interoperability</text>
+<text x="442" y="380" font-family="Arial Narrow,Arial,sans-serif" font-size="13" fill="#5A8068">Swift chose CCIP for tokenized</text>
+<text x="442" y="398" font-family="Arial Narrow,Arial,sans-serif" font-size="13" fill="#5A8068">asset settlement pilots</text>
+<rect x="780" y="304" width="360" height="136" rx="6" fill="#112418" stroke="#265235" stroke-width="1"/>
+<rect x="780" y="304" width="4" height="136" rx="2" fill="#3DAA6E"/>
+<text x="802" y="334" font-family="Arial Narrow,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#3DAA6E">PROOF OF RESERVE</text>
+<text x="802" y="358" font-family="Arial Narrow,Arial,sans-serif" font-size="15" font-weight="600" fill="#F0F4FA">Continuous on-chain verification</text>
+<text x="802" y="380" font-family="Arial Narrow,Arial,sans-serif" font-size="13" fill="#5A8068">Not a quarterly audit. A live</text>
+<text x="802" y="398" font-family="Arial Narrow,Arial,sans-serif" font-size="13" fill="#5A8068">cryptographic proof of backing</text>
+<text x="60" y="494" font-family="Arial Narrow,Arial,sans-serif" font-size="14" fill="#5A8068">Series: Nathan Allman (Ondo) · Carlos Domingo (Securitize) · Colin Butler (Polygon) · Sergey Nazarov (Chainlink)</text>
+<text x="60" y="592" font-family="Arial Narrow,Arial,sans-serif" font-size="14" fill="#3A5A48">rwatoday.news/top-voices-rwa-sergey-nazarov-chainlink</text>
+</svg>

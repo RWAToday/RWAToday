@@ -1,0 +1,33 @@
+<svg width="1200" height="628" viewBox="0 0 1200 628" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="628" fill="#080E0A"/>
+<rect width="1200" height="8" fill="#3DAA6E"/>
+<text x="60" y="66" font-family="Arial Narrow,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="4" fill="#3DAA6E">RWATODAY.NEWS  ·  ANALYSIS  ·  FUTURE OF RWA</text>
+<text x="60" y="148" font-family="Georgia,serif" font-size="50" font-weight="700" fill="#F0F4FA">7 industries that haven't</text>
+<text x="60" y="210" font-family="Georgia,serif" font-size="50" font-weight="700" fill="#3DAA6E">been tokenized yet.</text>
+<line x1="60" y1="238" x2="1140" y2="238" stroke="#1E4028" stroke-width="1"/>
+<!-- 7 tiles in 4+3 layout -->
+<rect x="60" y="258" width="238" height="72" rx="5" fill="#112418" stroke="#265235" stroke-width="1"/>
+<text x="80" y="284" font-family="Arial Narrow,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.5" fill="#3DAA6E">01</text>
+<text x="80" y="308" font-family="Arial Narrow,Arial,sans-serif" font-size="15" font-weight="600" fill="#F0F4FA">Music &amp; IP Royalties</text>
+<rect x="318" y="258" width="238" height="72" rx="5" fill="#112418" stroke="#265235" stroke-width="1"/>
+<text x="338" y="284" font-family="Arial Narrow,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.5" fill="#3DAA6E">02</text>
+<text x="338" y="308" font-family="Arial Narrow,Arial,sans-serif" font-size="15" font-weight="600" fill="#F0F4FA">Human Capital / ISAs</text>
+<rect x="576" y="258" width="238" height="72" rx="5" fill="#112418" stroke="#265235" stroke-width="1"/>
+<text x="596" y="284" font-family="Arial Narrow,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.5" fill="#3DAA6E">03</text>
+<text x="596" y="308" font-family="Arial Narrow,Arial,sans-serif" font-size="15" font-weight="600" fill="#F0F4FA">Public Infrastructure</text>
+<rect x="834" y="258" width="306" height="72" rx="5" fill="#112418" stroke="#265235" stroke-width="1"/>
+<text x="854" y="284" font-family="Arial Narrow,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.5" fill="#3DAA6E">04</text>
+<text x="854" y="308" font-family="Arial Narrow,Arial,sans-serif" font-size="15" font-weight="600" fill="#F0F4FA">Parametric Insurance</text>
+<rect x="60" y="348" width="348" height="72" rx="5" fill="#1A4028" stroke="#3DAA6E" stroke-width="1"/>
+<text x="80" y="374" font-family="Arial Narrow,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.5" fill="#3DAA6E">05</text>
+<text x="80" y="398" font-family="Arial Narrow,Arial,sans-serif" font-size="15" font-weight="600" fill="#F0F4FA">Water Rights &amp; Natural Resources</text>
+<rect x="428" y="348" width="348" height="72" rx="5" fill="#1A4028" stroke="#3DAA6E" stroke-width="1"/>
+<text x="448" y="374" font-family="Arial Narrow,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.5" fill="#3DAA6E">06</text>
+<text x="448" y="398" font-family="Arial Narrow,Arial,sans-serif" font-size="15" font-weight="600" fill="#F0F4FA">Carbon &amp; Biodiversity Credits</text>
+<rect x="796" y="348" width="344" height="72" rx="5" fill="#1A4028" stroke="#3DAA6E" stroke-width="1"/>
+<text x="816" y="374" font-family="Arial Narrow,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.5" fill="#3DAA6E">07</text>
+<text x="816" y="398" font-family="Arial Narrow,Arial,sans-serif" font-size="15" font-weight="600" fill="#F0F4FA">Sports &amp; Athlete Equity</text>
+<text x="60" y="474" font-family="Arial Narrow,Arial,sans-serif" font-size="14" fill="#5A8068">Each has real cash flows, currently illiquid or inaccessible markets, and information asymmetries that blockchain can reduce.</text>
+<text x="60" y="500" font-family="Arial Narrow,Arial,sans-serif" font-size="14" fill="#3A5A48">The technology exists. What's missing is legal clarity, oracle infrastructure, standardized frameworks, and distribution.</text>
+<text x="60" y="592" font-family="Arial Narrow,Arial,sans-serif" font-size="14" fill="#3A5A48">rwatoday.news/untapped-industries-rwa-tokenization-future</text>
+</svg>

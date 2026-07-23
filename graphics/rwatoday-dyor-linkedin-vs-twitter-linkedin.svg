@@ -1,0 +1,32 @@
+<svg width="1200" height="628" viewBox="0 0 1200 628" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>LinkedIn graphic — DYOR in RWA Part 01: LinkedIn vs Twitter — RWAToday.news</title>
+<desc>Two-column comparison showing LinkedIn as signal and Twitter as noise for RWA research due diligence</desc>
+
+<rect width="1200" height="628" fill="#080E0A"/>
+<rect x="0" y="0" width="1200" height="8" fill="#3DAA6E"/>
+
+<text x="60" y="66" font-family="Arial Narrow,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="4" fill="#3DAA6E">RWATODAY.NEWS  ·  DYOR IN RWA  ·  PART 01</text>
+
+<text x="60" y="152" font-family="Georgia,serif" font-size="62" font-weight="700" fill="#F0F4FA">LinkedIn vs Twitter:</text>
+<text x="60" y="228" font-family="Georgia,serif" font-size="62" font-weight="700" fill="#3DAA6E">One is signal.</text>
+<text x="60" y="304" font-family="Georgia,serif" font-size="62" font-weight="700" fill="#3A5A48">One is noise.</text>
+
+<line x1="60" y1="328" x2="1140" y2="328" stroke="#1E4028" stroke-width="1"/>
+
+<rect x="60" y="348" width="508" height="182" rx="8" fill="#112418" stroke="#3DAA6E" stroke-width="1.5"/>
+<text x="314" y="390" font-family="Arial Narrow,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="3" fill="#3DAA6E" text-anchor="middle">LINKEDIN — SIGNAL</text>
+<text x="314" y="420" font-family="Arial Narrow,Arial,sans-serif" font-size="16" fill="#7CC49A" text-anchor="middle">Verifiable employment history</text>
+<text x="314" y="448" font-family="Arial Narrow,Arial,sans-serif" font-size="16" fill="#7CC49A" text-anchor="middle">Real names · Real employers · Real track record</text>
+<text x="314" y="476" font-family="Arial Narrow,Arial,sans-serif" font-size="16" fill="#7CC49A" text-anchor="middle">Institutional career moves before the press release</text>
+<text x="314" y="510" font-family="Arial Narrow,Arial,sans-serif" font-size="15" font-weight="700" fill="#3DAA6E" text-anchor="middle">→ Use to verify who the people actually are</text>
+
+<rect x="632" y="348" width="508" height="182" rx="8" fill="#0E1A10" stroke="#265235" stroke-width="1"/>
+<text x="886" y="390" font-family="Arial Narrow,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="3" fill="#3A5A48" text-anchor="middle">TWITTER / X — NOISE</text>
+<text x="886" y="420" font-family="Arial Narrow,Arial,sans-serif" font-size="16" fill="#2E4A38" text-anchor="middle">Anonymous · Unverifiable · No accountability</text>
+<text x="886" y="448" font-family="Arial Narrow,Arial,sans-serif" font-size="16" fill="#2E4A38" text-anchor="middle">Anyone can claim anything</text>
+<text x="886" y="476" font-family="Arial Narrow,Arial,sans-serif" font-size="16" fill="#2E4A38" text-anchor="middle">Sentiment · Hype · Breaking news</text>
+<text x="886" y="510" font-family="Arial Narrow,Arial,sans-serif" font-size="15" fill="#3A5A48" text-anchor="middle">→ Use for news only — not verification</text>
+
+<text x="60" y="592" font-family="Arial Narrow,Arial,sans-serif" font-size="14" fill="#3A5A48">How to research RWA like a practitioner  ·  rwatoday.news/dyor-rwa-linkedin-vs-twitter.html</text>
+
+</svg>

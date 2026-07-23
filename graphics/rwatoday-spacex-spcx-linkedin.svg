@@ -1,0 +1,50 @@
+<svg width="1200" height="628" viewBox="0 0 1200 628" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>SpaceX IPO Tokenized SPCX — RWAToday.news</title>
+
+<rect width="1200" height="628" fill="#080E0A"/>
+<rect width="1200" height="8" fill="#3DAA6E"/>
+
+<!-- Stars background -->
+<circle cx="120" cy="180" r="1.2" fill="#3DAA6E" opacity="0.4"/>
+<circle cx="340" cy="90" r="1" fill="#3DAA6E" opacity="0.3"/>
+<circle cx="580" cy="140" r="1.4" fill="#3DAA6E" opacity="0.5"/>
+<circle cx="800" cy="70" r="1" fill="#7CC49A" opacity="0.3"/>
+<circle cx="950" cy="160" r="1.2" fill="#3DAA6E" opacity="0.4"/>
+<circle cx="1080" cy="100" r="1" fill="#7CC49A" opacity="0.3"/>
+<circle cx="220" cy="300" r="0.8" fill="#3DAA6E" opacity="0.2"/>
+<circle cx="1150" cy="280" r="1" fill="#3DAA6E" opacity="0.3"/>
+
+<text x="60" y="66" font-family="Arial Narrow,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="4" fill="#3DAA6E">RWATODAY.NEWS  ·  BREAKING  ·  JUNE 12, 2026</text>
+
+<!-- Main headline -->
+<text x="60" y="152" font-family="Georgia,serif" font-size="58" font-weight="700" fill="#F0F4FA">SpaceX went public.</text>
+<text x="60" y="224" font-family="Georgia,serif" font-size="58" font-weight="700" fill="#3DAA6E">It went on-chain</text>
+<text x="60" y="290" font-family="Georgia,serif" font-size="58" font-weight="700" fill="#3DAA6E">the same day.</text>
+
+<line x1="60" y1="316" x2="1140" y2="316" stroke="#1E4028" stroke-width="1"/>
+
+<!-- Four stat cards -->
+<rect x="60" y="334" width="240" height="88" rx="6" fill="#112418" stroke="#265235" stroke-width="1"/>
+<text x="180" y="364" font-family="Arial Narrow,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#3DAA6E" text-anchor="middle">IPO PRICE</text>
+<text x="180" y="398" font-family="Georgia,serif" font-size="28" font-weight="700" fill="#F0F4FA" text-anchor="middle">$135 / share</text>
+
+<rect x="320" y="334" width="240" height="88" rx="6" fill="#112418" stroke="#265235" stroke-width="1"/>
+<text x="440" y="364" font-family="Arial Narrow,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#3DAA6E" text-anchor="middle">LARGEST IPO EVER</text>
+<text x="440" y="398" font-family="Georgia,serif" font-size="28" font-weight="700" fill="#F0F4FA" text-anchor="middle">$75B raised</text>
+
+<rect x="580" y="334" width="240" height="88" rx="6" fill="#112418" stroke="#265235" stroke-width="1"/>
+<text x="700" y="364" font-family="Arial Narrow,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#3DAA6E" text-anchor="middle">VALUATION</text>
+<text x="700" y="398" font-family="Georgia,serif" font-size="28" font-weight="700" fill="#F0F4FA" text-anchor="middle">$1.75 trillion</text>
+
+<rect x="840" y="334" width="304" height="88" rx="6" fill="#1A4028" stroke="#3DAA6E" stroke-width="1.5"/>
+<text x="992" y="364" font-family="Arial Narrow,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="2" fill="#3DAA6E" text-anchor="middle">TOKENIZED SAME DAY</text>
+<text x="992" y="392" font-family="Arial Narrow,Arial,sans-serif" font-size="15" font-weight="700" fill="#7CC49A" text-anchor="middle">Solana · Ethereum · Base</text>
+
+<!-- Platform row -->
+<text x="60" y="472" font-family="Arial Narrow,Arial,sans-serif" font-size="13" font-weight="600" fill="#5A8068">Platforms:</text>
+<text x="60" y="496" font-family="Arial Narrow,Arial,sans-serif" font-size="14" fill="#A8C4B0">Backpack/Sunrise (Solana) — 1:1 backed, real shares, full ACATS redemption</text>
+<text x="60" y="520" font-family="Arial Narrow,Arial,sans-serif" font-size="14" fill="#5A8068">Ondo Finance · Backed · Dinari (Ethereum/Base) · xStocks via Kraken/Bybit (note: restrictions apply by jurisdiction)</text>
+
+<text x="60" y="558" font-family="Arial Narrow,Arial,sans-serif" font-size="13" fill="#3A5A48">The defining moment for tokenized equities — not all products are equal. Read the full breakdown before participating.</text>
+<text x="60" y="592" font-family="Arial Narrow,Arial,sans-serif" font-size="14" fill="#3A5A48">rwatoday.news/spacex-ipo-tokenized-spcx-rwa-equities.html</text>
+</svg>
