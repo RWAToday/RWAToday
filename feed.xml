@@ -1,20 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>RWAToday.news</title>
     <link>https://rwatoday.news</link>
-    <description>Independent coverage of real-world asset tokenization, on-chain finance, and the tokenized economy.</description>
+    <description>Independent RWA tokenization news.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2026 05:49:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 15:14:39 +0000</lastBuildDate>
     <atom:link href="https://rwatoday.news/feed.xml" rel="self" type="application/rss+xml"/>
-    <image><url>https://rwatoday.news/og-image.png</url><title>RWAToday.news</title><link>https://rwatoday.news</link></image>
+    <item>
+      <title>The Lettuce and Egg Recalls This Week Show Exactly Why Food Supply Chains Need Blockchain</title>
+      <link>https://rwatoday.news/food-supply-chain-blockchain-lettuce-egg-recall-2026</link>
+      <guid isPermaLink="true">https://rwatoday.news/food-supply-chain-blockchain-lettuce-egg-recall-2026</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <description>19 million eggs recalled today. Iceberg lettuce in 27 states last week. Both traced in weeks. Walmart does it in 2.2 seconds on blockchain. The tech exists. FSMA 204 compliance was pushed to 2027.</description>
+      <dc:creator>RWAToday.news</dc:creator>
+    </item>
+    <item>
+      <title>What Is a Real-World Asset? The Current Market, What Could Be Next, and What Definitely Is Not RWA.</title>
+      <link>https://rwatoday.news/what-is-rwa-crypto-explained</link>
+      <guid isPermaLink="true">https://rwatoday.news/what-is-rwa-crypto-explained</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Treasuries, private credit, gold, equities — the active $33.5B market. Food supply chains, carbon credits, water rights, music royalties — what the infrastructure makes possible next.</description>
+      <dc:creator>RWAToday.news</dc:creator>
+    </item>
+    <item>
+      <title>RWA This Week — Issue #009</title>
+      <link>https://rwatoday.news/rwa-this-week-009</link>
+      <guid isPermaLink="true">https://rwatoday.news/rwa-this-week-009</guid>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <description>19M eggs recalled. Lettuce in 27 states. Blockchain traces it in 2.2 seconds. CLARITY Act new draft drops. SPCX earnings August 6. The week in RWA.</description>
+      <dc:creator>RWAToday.news</dc:creator>
+    </item>
     <item>
       <title>RWA This Week — Issue #008</title>
       <link>https://rwatoday.news/rwa-this-week-008</link>
       <guid isPermaLink="true">https://rwatoday.news/rwa-this-week-008</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
       <description>DTCC live July 15. CLARITY Act stalled. GENIUS Act to Jan 2027. UK 54-firm taskforce. 97% of RWA off-limits to US retail. Two weeks of the sector's biggest news.</description>
-      <category>Weekly Roundup</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -23,7 +45,6 @@
       <guid isPermaLink="true">https://rwatoday.news/dtcc-tokenized-securities-live-production-july-15-2026</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
       <description>On July 15, 2026, the DTCC processed its first real production trades of tokenized securities — Microsoft, Circle, QQQ, SPY, BlackRock Treasury ETF. 40+ firms. Full commercial launch October 2026.</description>
-      <category>Markets · Infrastructure</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -32,7 +53,6 @@
       <guid isPermaLink="true">https://rwatoday.news/clarity-act-stalled-senate-recess-what-happened-2026</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
       <description>A new draft with a temporary ethics provision emerged July 22. Coinbase CEO Brian Armstrong says it's set for a Senate floor vote. 16 days to recess. The bill is alive and actively moving.</description>
-      <category>Policy · Update</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -41,7 +61,6 @@
       <guid isPermaLink="true">https://rwatoday.news/genius-act-one-year-anniversary-rules-update-2026</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
       <description>We reported July 18 as rules-go-live. That was wrong. Implementing rules are still at proposal stage. We're correcting our coverage and explaining what January 2027 means.</description>
-      <category>Policy · Correction</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -50,7 +69,6 @@
       <guid isPermaLink="true">https://rwatoday.news/uk-tokenization-taskforce-54-firms-digital-gilt-2026</guid>
       <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
       <description>July 13: 54-firm UK taskforce including BlackRock, Goldman, JPMorgan. HSBC Orion in BoE sandbox. July 14: US-UK joint framework recommendations. The two largest financial centers are building compatible tokenization infrastructure.</description>
-      <category>Markets · Policy · Global</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -59,7 +77,6 @@
       <guid isPermaLink="true">https://rwatoday.news/rwa-this-week-007</guid>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
       <description>Tiger Research: RWA beyond tokenization. XRPL $4B. CoinGecko and CMC add RWA categories. BeInCrypto nuance on the $60B headline. GENIUS Act 10 days away.</description>
-      <category>Weekly Roundup</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -68,7 +85,6 @@
       <guid isPermaLink="true">https://rwatoday.news/coingecko-coinmarketcap-rwa-category-mainstream-signal</guid>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
       <description>When the two largest crypto data platforms create RWA category pages, they tell tens of millions of users that tokenized assets are a legitimate, trackable asset class. The DeFi and NFT playbook says what comes next.</description>
-      <category>Analysis · Adoption</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -77,7 +93,6 @@
       <guid isPermaLink="true">https://rwatoday.news/tiger-research-rwa-capital-market-infrastructure-2026</guid>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
       <description>Published today. On-chain assets $34B — 20x from 2020. Including represented: $360B. Four verticals already operational. Korea, Japan, Hong Kong accelerating.</description>
-      <category>Analysis · Research</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -86,7 +101,6 @@
       <guid isPermaLink="true">https://rwatoday.news/rwa-tokenization-market-activity-reality-beincrypto-2026</guid>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
       <description>BeInCrypto tracked $60B in tokenized RWAs, found 910 of 1,289 assets showed zero weekly transfers. The nuance — $27B is long-duration institutional holdings behaving exactly as expected — is the more useful story.</description>
-      <category>Analysis · Data · DYOR</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -95,7 +109,6 @@
       <guid isPermaLink="true">https://rwatoday.news/xrpl-rwa-tokenization-4-billion-jpmorgan-cross-border-2026</guid>
       <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
       <description>JPMorgan, Ripple, Mastercard, and Ondo settled a cross-border tokenized Treasury in 4 seconds. 500+ products on XRPL. XRP ETF inflows 8 consecutive weeks.</description>
-      <category>Markets · Infrastructure</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -104,7 +117,6 @@
       <guid isPermaLink="true">https://rwatoday.news/rwa-this-week-006</guid>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
       <description>GENIUS Act rules July 18. Tokenized equities $3.57B daily ATH. Mubadala $103.5M PE tokenized. 952,327 holders. America leads the tokenized world.</description>
-      <category>Weekly Roundup</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -113,7 +125,6 @@
       <guid isPermaLink="true">https://rwatoday.news/us-leads-rwa-tokenization-fourth-of-july-2026</guid>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
       <description>Tokenized US Treasuries dominate the $19.3B RWA market. GENIUS Act rules live July 18. DTCC launching this month. The US leads the world in tokenized finance — and the framework making that lead durable arrives in 16 days.</description>
-      <category>Analysis · July 4th Special</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -122,7 +133,6 @@
       <guid isPermaLink="true">https://rwatoday.news/genius-act-bank-stablecoins-july-18-2026</guid>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
       <description>JPMorgan on Coinbase Base. Bank of America confirmed. Societe Generale launching USD CoinVertible this month. In 16 days, every US bank can issue a federally licensed stablecoin.</description>
-      <category>Policy · Stablecoins</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -131,7 +141,6 @@
       <guid isPermaLink="true">https://rwatoday.news/tokenized-equities-volume-ath-ondo-portfolios-2026</guid>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
       <description>Tokenized equities traded $3.57 billion in a single day. Ondo hired a Head of Portfolio Products to build autonomous on-chain investment strategies — the next evolution.</description>
-      <category>Markets · Tokenized Stocks</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -140,7 +149,6 @@
       <guid isPermaLink="true">https://rwatoday.news/mubadala-sovereign-wealth-fund-tokenized-private-equity-2026</guid>
       <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
       <description>$103.5M in Mubadala Capital fund interests appeared on RWA.xyz last week via Kaio Tokenized. Sovereign wealth funds are the most credibility-signaling institutions in finance.</description>
-      <category>Markets · Institutional</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -149,7 +157,6 @@
       <guid isPermaLink="true">https://rwatoday.news/tokenizethis-2026-nyc-conference-summary</guid>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
       <description>Three days. Fidelity, Apollo, Franklin Templeton, WisdomTree, Securitize. Here is what was discussed and what the shift from 'should we?' to 'how do we scale it?' means.</description>
-      <category>Events · Conference Recap</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -158,7 +165,6 @@
       <guid isPermaLink="true">https://rwatoday.news/rwa-news-june-25-2026-tokenized-stocks-billion-buidl</guid>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
       <description>Tokenized equities cross $1 billion for the first time. BlackRock BUIDL at $2.5B. Chainalysis: wallets created specifically to hold RWA tokens are exploding in 2026. xStocks at $25B.</description>
-      <category>Data · Markets</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -167,7 +173,6 @@
       <guid isPermaLink="true">https://rwatoday.news/top-rwa-accounts-to-follow-x-linkedin-2026</guid>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
       <description>The gap between mainstream coverage and what is actually happening in RWA is measured in weeks. These are the accounts that close it — practitioners, analysts, data sources.</description>
-      <category>Resources · Community</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -176,7 +181,6 @@
       <guid isPermaLink="true">https://rwatoday.news/rwa-tokenization-first-half-2026-review-outlook</guid>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
       <description>SpaceX tokenized on IPO day. BUIDL at $2.5B. Tokenized stocks cross $1B. GENIUS Act done, CLARITY Act close. 937,928 holders. Honest H1 accounting and H2 calendar.</description>
-      <category>Analysis · Year in Review</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -185,7 +189,6 @@
       <guid isPermaLink="true">https://rwatoday.news/rwa-mainstream-adoption-demystifying-rwa-misconceptions</guid>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
       <description>'Just crypto with extra steps.' 'Need to be a crypto expert.' 'The yield is too good to be true.' Six misconceptions — and why none hold up under scrutiny.</description>
-      <category>Education · Analysis</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -194,7 +197,6 @@
       <guid isPermaLink="true">https://rwatoday.news/spacex-spcx-tokenized-shares-eleven-day-recap</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <description>IPO at $135. All-time high $225.64 four days later. Now back to $154. Eleven days of SPCX price action stress-tested tokenized equity infrastructure. Here is what the on-chain products did.</description>
-      <category>Markets · Tokenized Stocks</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -203,7 +205,6 @@
       <guid isPermaLink="true">https://rwatoday.news/rwa-explained-airbnb-example-beginner</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <description>Five friends, one vacation house, and a blockchain. The clearest explanation of RWA tokenization we have written — because the Airbnb example explains everything the jargon does not.</description>
-      <category>Education · Beginner</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -212,7 +213,6 @@
       <guid isPermaLink="true">https://rwatoday.news/clarity-act-stand-with-crypto-senate-vote-2026</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <description>15-9 committee vote. On the Senate calendar. Needs 60 floor votes before August recess or the process resets. Here's what's at stake and how to contact your senator.</description>
-      <category>Policy · Regulation</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -221,7 +221,6 @@
       <guid isPermaLink="true">https://rwatoday.news/rwa-news-june-23-2026-etoro-tokenized-stocks-clarity-act</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <description>eToro announcing 100+ US equities as ERC-20 tokens. 937,928 holders approaching 1 million. Juniper Research $5T B2B stablecoin forecast. CLARITY Act Senate window closing.</description>
-      <category>Markets · Digest</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -230,7 +229,6 @@
       <guid isPermaLink="true">https://rwatoday.news/rwa-for-the-rest-of-us-oracle</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <description>A blockchain can't see outside itself — it doesn't know gold prices, interest rates, or whether a shipment arrived. An oracle is the bridge. Without it, tokenized real-world assets cannot function.</description>
-      <category>Education · Beginner</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -239,7 +237,6 @@
       <guid isPermaLink="true">https://rwatoday.news/ones-to-watch-helium-network-rwa</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <description>100,000+ hotspot locations. Dish Network as an operator partner. Nova Mobile running on it. Helium is tokenized physical infrastructure — and the template for an entire asset class.</description>
-      <category>Ones to Watch · DePin</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -248,7 +245,6 @@
       <guid isPermaLink="true">https://rwatoday.news/tether-fasset-gold-visa-card-xaut-rwa</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <description>World's first gold-backed Visa card. Spend XAU₮ anywhere Visa is accepted. 6% cashback in tokenized gold. Automatic round-up invests spare change into gold. Targeting Asia and Africa's $32B in real-world asset volume.</description>
-      <category>Markets · Tokenized Gold</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -257,7 +253,6 @@
       <guid isPermaLink="true">https://rwatoday.news/coingecko-rwa-report-2026-analysis</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <description>Tokenized RWAs tripled to $19.3B by Q1 2026. Commodities +289%. Stocks +422%. RWA perps hit $524.8B in Q1 alone — exceeding all of 2025. Here's what the data actually shows.</description>
-      <category>Data · Markets · Analysis</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -266,7 +261,6 @@
       <guid isPermaLink="true">https://rwatoday.news/top-voices-rwa-hadley-stern-fidelity</guid>
       <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <description>The head of Fidelity Digital Assets has articulated the clearest institutional adoption framework in traditional finance. Understanding it is essential context for the next phase of RWA.</description>
-      <category>Top Voices in RWA</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -275,7 +269,6 @@
       <guid isPermaLink="true">https://rwatoday.news/untapped-industries-rwa-tokenization-future</guid>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
       <description>Music royalties, athlete equity, public infrastructure, insurance pools, water rights, carbon credits, sports. The industries where RWA could create the most value next.</description>
-      <category>Analysis · Future of RWA</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -284,7 +277,6 @@
       <guid isPermaLink="true">https://rwatoday.news/rwa-mainstream-adoption-what-needs-to-happen</guid>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
       <description>930K holders globally. PayPal has 400 million accounts. The six barriers between institutional proof-of-concept and mainstream participation — and what clearing each one looks like.</description>
-      <category>Analysis · Adoption</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -293,7 +285,6 @@
       <guid isPermaLink="true">https://rwatoday.news/rwa-this-week-005</guid>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
       <description>Securitize votes June 29. 930K holders approaching 1 million. Ondo 430+ stocks on MetaMask. BUIDL on Uniswap. DTCC this month.</description>
-      <category>Weekly Roundup</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -302,7 +293,6 @@
       <guid isPermaLink="true">https://rwatoday.news/securitize-nyse-secz-rwa-public-company-2026</guid>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
       <description>Shareholders vote June 29. SEC cleared the S-4. $1.25B valuation, $4B in tokenized assets, 39% YoY revenue growth. The first publicly traded RWA infrastructure company.</description>
-      <category>Markets · Institutional</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -311,7 +301,6 @@
       <guid isPermaLink="true">https://rwatoday.news/top-voices-rwa-sergey-nazarov-chainlink</guid>
       <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
       <description>Chainlink co-founder is not issuing tokenized assets. He is building the oracle network, cross-chain infrastructure, and on-chain verification layer without which institutional RWA cannot function.</description>
-      <category>Top Voices in RWA</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -320,7 +309,6 @@
       <guid isPermaLink="true">https://rwatoday.news/rwa-this-week-004</guid>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <description>Goldman Sachs tokenized real estate. Japan DVP settlement with DCJPY. DTCC two weeks. SpaceX recap. Curve debt proposal.</description>
-      <category>Weekly Roundup</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -329,7 +317,6 @@
       <guid isPermaLink="true">https://rwatoday.news/connect-learn2earn-blockchain-education-program</guid>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <description>55 consecutive weeks. Thousands of participants. Hundreds of thousands in on-chain rewards. Here's what makes it work.</description>
-      <category>Feature · Education</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -338,7 +325,6 @@
       <guid isPermaLink="true">https://rwatoday.news/royal-family-farms-austin-allred-grow-blockchain</guid>
       <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <description>A multi-generational regenerative farm in Washington State, blockchain carbon credits, and the Nourish Marketplace. Here's the full story.</description>
-      <category>Feature · Agricultural RWA</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -347,7 +333,6 @@
       <guid isPermaLink="true">https://rwatoday.news/spacex-ipo-tokenized-spcx-rwa-equities</guid>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <description>$135/share, $75B raised, $1.75T valuation. Tokenized SPCX launched simultaneously on Solana, Ethereum and Base. The defining moment for tokenized equities.</description>
-      <category>Markets · Breaking · RWA</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -356,7 +341,6 @@
       <guid isPermaLink="true">https://rwatoday.news/grow-worlds-largest-agricultural-blockchain-2026</guid>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <description>43,502 holders. 4× more than the closest competitor. The only project running its own native L1. Here's the methodology and data.</description>
-      <category>Analysis · Agricultural RWA</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -365,16 +349,6 @@
       <guid isPermaLink="true">https://rwatoday.news/fortune-crypto-100-2026-rwa-analysis</guid>
       <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <description>Franklin Templeton #1. Ondo #7. Securitize #10. BlackRock leads DATs. Reading the 2026 Fortune Crypto 100 through the RWA lens.</description>
-      <category>Markets · Institutional</category>
-      <dc:creator>RWAToday.news</dc:creator>
-    </item>
-    <item>
-      <title>What Is RWA in Crypto? The Complete Answer for 2026</title>
-      <link>https://rwatoday.news/what-is-rwa-crypto-explained</link>
-      <guid isPermaLink="true">https://rwatoday.news/what-is-rwa-crypto-explained</guid>
-      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
-      <description>The most searched question in the sector. Here is the complete answer: what RWA means, how tokenization works, who is building it, and how to get started.</description>
-      <category>Education · RWA</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -383,7 +357,6 @@
       <guid isPermaLink="true">https://rwatoday.news/tokenized-gold-vs-physical-gold-vs-etf</guid>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
       <description>PAXG, a gold bar, or GLD shares — three ways to own gold, three completely different risk profiles. A direct comparison with no agenda.</description>
-      <category>Analysis · Commodities</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -392,7 +365,6 @@
       <guid isPermaLink="true">https://rwatoday.news/5-rwa-mistakes-beginners-make</guid>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
       <description>Chasing yield without checking the exit. Trusting TVL blindly. Confusing governance tokens with yield products. These are the traps. Here is how to avoid them.</description>
-      <category>Education · DYOR</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -401,7 +373,6 @@
       <guid isPermaLink="true">https://rwatoday.news/stablecoins-and-rwa-connection-explained</guid>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
       <description>Stablecoins are the plumbing. RWA is what flows through it. How USDC, USDY, USDS and bank-issued stablecoins connect to tokenized real-world assets.</description>
-      <category>Analysis · Stablecoins</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -410,7 +381,6 @@
       <guid isPermaLink="true">https://rwatoday.news/rwa-tokenization-events-conferences-2026</guid>
       <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
       <description>TokenizeThis, RWA Summit, Consensus, TOKEN2049, FT Digital Assets Summit — plus agtech, real estate, and carbon events where tokenization is showing up for the first time.</description>
-      <category>Events · Industry</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -419,7 +389,6 @@
       <guid isPermaLink="true">https://rwatoday.news/rwa-this-week-003</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <description>589% RWA growth. Securitize IPO approved. Clearing House 2027 network. DTCC two weeks out.</description>
-      <category>Weekly Roundup</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -428,7 +397,6 @@
       <guid isPermaLink="true">https://rwatoday.news/rwa-for-the-rest-of-us-dao</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <description>A DAO is an org governed by smart contract, not corporate hierarchy. Here's why it matters for RWA.</description>
-      <category>Education · Beginner</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -437,7 +405,6 @@
       <guid isPermaLink="true">https://rwatoday.news/rwa-case-study-kkr-avalanche</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <description>First top-5 PE manager to tokenize a fund. $500B AUM. Here's how it worked and what it opened.</description>
-      <category>Case Study · Institutional</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -446,7 +413,6 @@
       <guid isPermaLink="true">https://rwatoday.news/ones-to-watch-toucan-carbon</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <description>BCT tokens, verified carbon credits, DeFi composability, and why the market's biggest problem is now structurally solved.</description>
-      <category>Ones to Watch · Carbon RWA</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -455,7 +421,6 @@
       <guid isPermaLink="true">https://rwatoday.news/dyor-rwa-on-chain-explorer</guid>
       <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <description>Every transaction, wallet, contract — public, permanent, can't be faked. Here's how to use one.</description>
-      <category>Research · DYOR</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -464,7 +429,6 @@
       <guid isPermaLink="true">https://rwatoday.news/rwa-this-week-002</guid>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
       <description>DTCC T-minus three weeks, Hong Kong bond data, SEC tokenized securities guidance, Polygon institutional expansion.</description>
-      <category>Weekly Roundup</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -473,7 +437,6 @@
       <guid isPermaLink="true">https://rwatoday.news/ones-to-watch-origintrail-supply-chain</guid>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
       <description>Building verifiable supply chain infrastructure since 2011. The EU is mandating Digital Product Passports. Here's why it matters.</description>
-      <category>Ones to Watch · Supply Chain</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -482,7 +445,6 @@
       <guid isPermaLink="true">https://rwatoday.news/top-voices-rwa-colin-butler-polygon</guid>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
       <description>Polygon's Global Head of Institutional Capital has spent years translating blockchain into language that JPMorgan understands.</description>
-      <category>Top Voices · Institutional</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -491,7 +453,6 @@
       <guid isPermaLink="true">https://rwatoday.news/dyor-rwa-linkedin-vs-twitter</guid>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
       <description>Everyone says DYOR. Nobody explains how. Why LinkedIn is the most underused tool in crypto research — and how to actually use it to verify teams, track institutional moves, and spot red flags.</description>
-      <category>Research · DYOR</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -500,7 +461,6 @@
       <guid isPermaLink="true">https://rwatoday.news/rwa-case-study-hk-green-bonds</guid>
       <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
       <description>Two digital green bond issuances. US$1B in 2023. HK$6B in 2024. No new laws required. Here's how it worked.</description>
-      <category>Case Study · Institutional</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -509,7 +469,6 @@
       <guid isPermaLink="true">https://rwatoday.news/rwa-this-week-001</guid>
       <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
       <description>DTCC countdown, Ondo continuity, GENIUS Act, AdventureWurld tech test wrap. The week in RWA.</description>
-      <category>Weekly Roundup</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -518,7 +477,6 @@
       <guid isPermaLink="true">https://rwatoday.news/rwa-for-the-rest-of-us-nodes</guid>
       <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
       <description>Nodes are the franchise owners of the blockchain. Here's what they do and why they matter for RWA.</description>
-      <category>Education · Beginner</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -527,7 +485,6 @@
       <guid isPermaLink="true">https://rwatoday.news/rwa-for-the-rest-of-us-yield</guid>
       <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
       <description>Some tokens pay you just for holding them. Here's how yield works and why it changes everything.</description>
-      <category>Education · Beginner</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -536,7 +493,6 @@
       <guid isPermaLink="true">https://rwatoday.news/rwa-for-the-rest-of-us-liquidity</guid>
       <pubDate>Mon, 01 Jan 2026 00:00:00 +0000</pubDate>
       <description>Liquidity is the difference between a parking lot and a highway. Here's what it means for RWA — and the one question to ask before you invest.</description>
-      <category>Education · Beginner</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -545,7 +501,6 @@
       <guid isPermaLink="true">https://rwatoday.news/top-voices-rwa-carlos-domingo-securitize</guid>
       <pubDate>Mon, 01 Jan 2026 00:00:00 +0000</pubDate>
       <description>Securitize is the transfer agent for BlackRock's BUIDL, the compliance infrastructure behind OUSG, and a member of the DTCC working group.</description>
-      <category>Top Voices · Institutional</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -554,7 +509,6 @@
       <guid isPermaLink="true">https://rwatoday.news/rwa-defi-composability-gap-2026</guid>
       <pubDate>Mon, 01 Jan 2026 00:00:00 +0000</pubDate>
       <description>The RWA sector crossed $30B on-chain. Only $2.47B is active in DeFi. Here's why the composability gap exists and what's being built to close it.</description>
-      <category>Markets · DeFi · RWA</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -563,7 +517,6 @@
       <guid isPermaLink="true">https://rwatoday.news/adventurewurld-kill-the-boss-tech-test-2026</guid>
       <pubDate>Mon, 01 Jan 2026 00:00:00 +0000</pubDate>
       <description>1,929 on-chain matches. 1,500 players. 62 countries. 1.66M GULD distributed by smart contract in real time. A stress test that held.</description>
-      <category>Blockchain Gaming · Web3</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -572,7 +525,6 @@
       <guid isPermaLink="true">https://rwatoday.news/ultimate-guide-rwa-tokenization-2026</guid>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
       <description>Everything you need to know about RWA tokenization — asset classes, protocols, how to participate, regulation, and what to watch in H2 2026.</description>
-      <category>Markets · Education · RWA</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -581,7 +533,6 @@
       <guid isPermaLink="true">https://rwatoday.news/top-voices-rwa-nathan-allman-ondo</guid>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
       <description>The founder of Ondo Finance passed away unexpectedly on May 25, 2026. He was 32. A profile of what he built and why it will outlast him.</description>
-      <category>Top Voices · Tribute</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -590,7 +541,6 @@
       <guid isPermaLink="true">https://rwatoday.news/rwa-case-study-siemens-digital-bond</guid>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
       <description>In August 2023, Siemens issued a €60M digital bond on Polygon. Settlement: 1 day. No central depository. This is how it worked.</description>
-      <category>Case Study · Institutional</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -599,7 +549,6 @@
       <guid isPermaLink="true">https://rwatoday.news/rwa-for-the-rest-of-us-smart-contracts</guid>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
       <description>Smart contracts sound intimidating. They're not. Think of a vending machine that executes any financial agreement automatically — no manager, no lunch break, no human error.</description>
-      <category>Education · Beginner</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -608,7 +557,6 @@
       <guid isPermaLink="true">https://rwatoday.news/rwa-for-the-rest-of-us-tokenization</guid>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
       <description>You already understand tokenization — you just know it as Spotify. Here's how the same idea that turned CDs into streams is turning buildings and gold bars into tokens anyone can own.</description>
-      <category>Education · Beginner</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -617,7 +565,6 @@
       <guid isPermaLink="true">https://rwatoday.news/tokenized-real-estate-us-2026</guid>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
       <description>Arrived, RealT, and Lofty are letting everyday investors own fractional shares of US rental properties from $50.</description>
-      <category>Real Estate · RWA</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -626,7 +573,6 @@
       <guid isPermaLink="true">https://rwatoday.news/stablecoins-rwa-infrastructure-genius-act</guid>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
       <description>USDC, USDT, USDY and JPMorgan's JLTXX are the settlement rails the entire tokenized asset sector runs on.</description>
-      <category>Stablecoins · Regulation · RWA</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -635,7 +581,6 @@
       <guid isPermaLink="true">https://rwatoday.news/private-credit-tokenization-2026</guid>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
       <description>Figure, Maple, and Goldfinch are tokenizing the asset class institutions have hoarded for decades.</description>
-      <category>Private Credit · RWA</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -644,7 +589,6 @@
       <guid isPermaLink="true">https://rwatoday.news/how-to-invest-in-rwa-beginner-guide</guid>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
       <description>Five concrete entry points — from tokenized Treasuries to fractional real estate to tokenized gold.</description>
-      <category>Education · How-To · RWA</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -653,7 +597,6 @@
       <guid isPermaLink="true">https://rwatoday.news/rally-blockchain-rlink-communication-commerce</guid>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
       <description>R-Link embeds commerce into live conversations — and Rally is the decentralized network powering it.</description>
-      <category>Utility Tokens · Communication</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -662,7 +605,6 @@
       <guid isPermaLink="true">https://rwatoday.news/connect-win-blockchain-education-mainstream-adoption</guid>
       <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
       <description>Mainstream adoption of blockchain, RWA, and tokenization isn't held back by technology — it's held back by understanding. Connect and the Win Blockchain are building the model the industry has been missing.</description>
-      <category>Education · Adoption</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -671,7 +613,6 @@
       <guid isPermaLink="true">https://rwatoday.news/rwa-glossary-terms-explained</guid>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
       <description>Tokenization, RWA, DeFi, smart contracts, carbon credits, greenwashing, DYOR — every term in the real-world asset space, defined simply with real examples. The page to bookmark.</description>
-      <category>Education · Learning Center</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -680,7 +621,6 @@
       <guid isPermaLink="true">https://rwatoday.news/carbon-credit-fraud-blockchain-grow</guid>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
       <description>43,502 combined holders — more than every other agricultural blockchain combined. The only project with its own native L1. On-chain data, verified.</description>
-      <category>Carbon Markets · Environmental RWA · Case Study</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -689,7 +629,6 @@
       <guid isPermaLink="true">https://rwatoday.news/top-3-rwa-projects-to-participate-in-2026</guid>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
       <description>Not just watch — actually participate. Ondo Finance, GROW, and Element United offer different entry points at different risk profiles. All live, all accessible today.</description>
-      <category>Markets · How To Participate · RWA 2026</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -698,7 +637,6 @@
       <guid isPermaLink="true">https://rwatoday.news/ondo-finance-rwa-darling-2026</guid>
       <pubDate>Mon, 25 May 2026 00:00:00 +0000</pubDate>
       <description>$40M to $3.8B TVL in under two years. 24% single-day gain. Franklin Templeton partnership. Here's what Ondo actually built, why institutional capital keeps coming, and what the open questions are.</description>
-      <category>Markets · Ondo Finance · RWA Protocol</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -707,7 +645,6 @@
       <guid isPermaLink="true">https://rwatoday.news/iran-crypto-markets-rwa-2026</guid>
       <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
       <description>$344M in crypto frozen. 20% of global oil at risk. Bitcoin swinging on peace signals. The Iran standoff is moving on-chain markets through channels every RWA investor needs to understand.</description>
-      <category>Markets · Geopolitics · Current Events</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -716,7 +653,6 @@
       <guid isPermaLink="true">https://rwatoday.news/geopolitics-crypto-rwa-markets</guid>
       <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
       <description>War, sanctions, trade deals, and central bank decisions flow through commodity prices, risk sentiment, and capital allocation directly into RWA assets. Here's the four-channel framework with Iran as the live example.</description>
-      <category>Markets · Macro · Education</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -725,7 +661,6 @@
       <guid isPermaLink="true">https://rwatoday.news/element-united-scott-lomu-rwa-mining</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
       <description>Scott Lomu co-founded Element United to build verified, on-chain markets for natural resources and carbon offsets. ELMT, the Element Blockchain, and four verification products are building the infrastructure for ethical resource markets.</description>
-      <category>Natural Resources · RWA · Element United</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -734,7 +669,6 @@
       <guid isPermaLink="true">https://rwatoday.news/jpmorgan-jltxx-stablecoin-tokenized-fund</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
       <description>JPMorgan's new JLTXX fund is explicitly designed as GENIUS Act-compliant reserve collateral for stablecoin issuers. It's the clearest signal yet that tokenized RWAs and stablecoins are converging into a single infrastructure layer.</description>
-      <category>Institutional · Stablecoins</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -743,7 +677,6 @@
       <guid isPermaLink="true">https://rwatoday.news/dtcc-tokenization-july-2026</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
       <description>The institution that processes $4.7 quadrillion in annual transactions set July 2026 for initial tokenized asset trades. Goldman Sachs, BlackRock, JPMorgan, Nasdaq, NYSE — all in the working group. This is Wall Street's clearest move yet.</description>
-      <category>Infrastructure · Wall Street · DTCC</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -752,7 +685,6 @@
       <guid isPermaLink="true">https://rwatoday.news/dubai-real-estate-tokenization-xrp</guid>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
       <description>The Dubai Land Department and Ctrl Alt launched $5M in tokenized real estate on the XRP Ledger, backed by title deeds and synced to Dubai's official land registry. This is sovereign-grade real estate tokenization.</description>
-      <category>Real Estate · Case Study · Global RWA</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -761,7 +693,6 @@
       <guid isPermaLink="true">https://rwatoday.news/clarity-act-stand-with-crypto</guid>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
       <description>Behind the 15-9 Senate Banking Committee vote was a 2.9-million-strong advocacy network, 1.5 million congressional contacts, and a grassroots campaign that changed what's politically possible in crypto.</description>
-      <category>Regulation · Advocacy · U.S. Legislation</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -770,7 +701,6 @@
       <guid isPermaLink="true">https://rwatoday.news/bitcoin-pizza-day-rwa-utility</guid>
       <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
       <description>On May 22, 2010, Laszlo Hanyecz paid 10,000 BTC for two pizzas — the first real-world commercial Bitcoin transaction. Sixteen years on, it reads as the proof-of-concept for the entire RWA sector.</description>
-      <category>Bitcoin Pizza Day · 16th Anniversary</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -779,7 +709,6 @@
       <guid isPermaLink="true">https://rwatoday.news/grow-token-agricultural-blockchain-food-supply</guid>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
       <description>The global food supply chain loses $1 trillion annually to fraud, inefficiency, and opacity. GROW is building the on-chain infrastructure to fix it — one verified farm transaction at a time.</description>
-      <category>Agricultural RWA · Utility</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -788,7 +717,6 @@
       <guid isPermaLink="true">https://rwatoday.news/blackrock-tokenized-funds-rwa</guid>
       <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
       <description>When the world's largest asset manager files for its second and third tokenized funds within 18 months, it's no longer an experiment. It's a product line — and it changes what every other institution has to do next.</description>
-      <category>Institutional</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -797,7 +725,6 @@
       <guid isPermaLink="true">https://rwatoday.news/rwa-market-37-billion-2026</guid>
       <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
       <description>100% year-on-year growth. 775,000 on-chain holders. $524.8B in perps volume in a single quarter. The structural shifts underneath the headline define the next phase of tokenization.</description>
-      <category>Markets · Data</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -806,7 +733,6 @@
       <guid isPermaLink="true">https://rwatoday.news/clarity-act-rwa-regulation</guid>
       <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
       <description>A 15-9 bipartisan vote sent the Digital Asset Market Clarity Act to the full Senate floor. For real-world asset tokenization, it's the most consequential piece of legislation in the industry's history.</description>
-      <category>Regulation · U.S. Legislation</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -815,7 +741,6 @@
       <guid isPermaLink="true">https://rwatoday.news/adventurewurld-guld-onchain</guid>
       <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
       <description>1,074 games. 31 countries. 1,000,000 GULD paid directly to player wallets with zero intermediary. The KillTheBoss Tech Test proved that fully on-chain game rewards at scale are live.</description>
-      <category>On-Chain Infrastructure</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
@@ -824,7 +749,6 @@
       <guid isPermaLink="true">https://rwatoday.news/five-utility-tokens-2026</guid>
       <pubDate>Sun, 17 May 2026 00:00:00 +0000</pubDate>
       <description>Agriculture, energy, payments, education, collaboration — five projects with live products, real users, and on-chain revenue today. Real Products. Real Users. Real Revenue. OnChain.</description>
-      <category>Real-World Utility · 2026 Watchlist</category>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
   </channel>

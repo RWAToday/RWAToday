@@ -3,28 +3,83 @@
   "title": "RWAToday.news",
   "home_page_url": "https://rwatoday.news",
   "feed_url": "https://rwatoday.news/feed.json",
-  "description": "Independent editorial publication covering real-world asset tokenization, on-chain finance infrastructure, and the tokenized economy.",
-  "icon": "https://rwatoday.news/og-image.png",
-  "favicon": "https://rwatoday.news/favicon.ico",
-  "language": "en-US",
-  "authors": [
-    {
-      "name": "RWAToday.news",
-      "url": "https://rwatoday.news"
-    }
-  ],
   "_rwatoday": {
-    "version": "1.0",
-    "total_articles": 91,
-    "generated": "2026-07-23T05:49:27Z",
-    "endpoints": {
-      "json_feed": "https://rwatoday.news/feed.json",
-      "rss_feed": "https://rwatoday.news/feed.xml",
-      "embed_widget": "https://rwatoday.news/widget.js",
-      "api_docs": "https://rwatoday.news/api"
-    }
+    "total_articles": 93,
+    "generated": "2026-07-24T15:14:39Z"
   },
   "items": [
+    {
+      "id": "https://rwatoday.news/food-supply-chain-blockchain-lettuce-egg-recall-2026",
+      "url": "https://rwatoday.news/food-supply-chain-blockchain-lettuce-egg-recall-2026",
+      "title": "The Lettuce and Egg Recalls This Week Show Exactly Why Food Supply Chains Need Blockchain",
+      "content_text": "19 million eggs recalled today. Iceberg lettuce in 27 states last week. Both traced in weeks. Walmart does it in 2.2 seconds on blockchain. The tech exists. FSMA 204 compliance was pushed to 2027.",
+      "summary": "19 million eggs recalled today. Iceberg lettuce in 27 states last week. Both traced in weeks. Walmart does it in 2.2 seconds on blockchain. The tech exists. FSMA 204 compliance was pushed to 2027.",
+      "image": "https://rwatoday.news/og-image.png",
+      "date_published": "2026-07-24T00:00:00Z",
+      "tags": [
+        "Analysis",
+        "Food Safety",
+        "Real-World RWA"
+      ],
+      "authors": [
+        {
+          "name": "RWAToday.news",
+          "url": "https://rwatoday.news"
+        }
+      ],
+      "_rwatoday": {
+        "slug": "food-supply-chain-blockchain-lettuce-egg-recall-2026",
+        "category": "Analysis · Food Safety · Real-World RWA",
+        "date_display": "July 24, 2026"
+      }
+    },
+    {
+      "id": "https://rwatoday.news/what-is-rwa-crypto-explained",
+      "url": "https://rwatoday.news/what-is-rwa-crypto-explained",
+      "title": "What Is a Real-World Asset? The Current Market, What Could Be Next, and What Definitely Is Not RWA.",
+      "content_text": "Treasuries, private credit, gold, equities — the active $33.5B market. Food supply chains, carbon credits, water rights, music royalties — what the infrastructure makes possible next.",
+      "summary": "Treasuries, private credit, gold, equities — the active $33.5B market. Food supply chains, carbon credits, water rights, music royalties — what the infrastructure makes possible next.",
+      "image": "https://rwatoday.news/og-image.png",
+      "date_published": "2026-07-24T00:00:00Z",
+      "tags": [
+        "Education",
+        "Explainer"
+      ],
+      "authors": [
+        {
+          "name": "RWAToday.news",
+          "url": "https://rwatoday.news"
+        }
+      ],
+      "_rwatoday": {
+        "slug": "what-is-rwa-crypto-explained",
+        "category": "Education · Explainer",
+        "date_display": "July 24, 2026"
+      }
+    },
+    {
+      "id": "https://rwatoday.news/rwa-this-week-009",
+      "url": "https://rwatoday.news/rwa-this-week-009",
+      "title": "RWA This Week — Issue #009",
+      "content_text": "19M eggs recalled. Lettuce in 27 states. Blockchain traces it in 2.2 seconds. CLARITY Act new draft drops. SPCX earnings August 6. The week in RWA.",
+      "summary": "19M eggs recalled. Lettuce in 27 states. Blockchain traces it in 2.2 seconds. CLARITY Act new draft drops. SPCX earnings August 6. The week in RWA.",
+      "image": "https://rwatoday.news/og-image.png",
+      "date_published": "2026-07-24T00:00:00Z",
+      "tags": [
+        "Weekly Roundup"
+      ],
+      "authors": [
+        {
+          "name": "RWAToday.news",
+          "url": "https://rwatoday.news"
+        }
+      ],
+      "_rwatoday": {
+        "slug": "rwa-this-week-009",
+        "category": "Weekly Roundup",
+        "date_display": "July 24, 2026"
+      }
+    },
     {
       "id": "https://rwatoday.news/rwa-this-week-008",
       "url": "https://rwatoday.news/rwa-this-week-008",
@@ -980,30 +1035,6 @@
         "slug": "fortune-crypto-100-2026-rwa-analysis",
         "category": "Markets · Institutional",
         "date_display": "June 12, 2026"
-      }
-    },
-    {
-      "id": "https://rwatoday.news/what-is-rwa-crypto-explained",
-      "url": "https://rwatoday.news/what-is-rwa-crypto-explained",
-      "title": "What Is RWA in Crypto? The Complete Answer for 2026",
-      "content_text": "The most searched question in the sector. Here is the complete answer: what RWA means, how tokenization works, who is building it, and how to get started.",
-      "summary": "The most searched question in the sector. Here is the complete answer: what RWA means, how tokenization works, who is building it, and how to get started.",
-      "image": "https://rwatoday.news/og-image.png",
-      "date_published": "2026-06-10T00:00:00Z",
-      "tags": [
-        "Education",
-        "RWA"
-      ],
-      "authors": [
-        {
-          "name": "RWAToday.news",
-          "url": "https://rwatoday.news"
-        }
-      ],
-      "_rwatoday": {
-        "slug": "what-is-rwa-crypto-explained",
-        "category": "Education · RWA",
-        "date_display": "June 10, 2026"
       }
     },
     {
