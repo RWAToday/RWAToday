@@ -5,8 +5,40 @@
     <link>https://rwatoday.news</link>
     <description>Independent RWA tokenization news.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jul 2026 15:14:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 18:09:20 +0000</lastBuildDate>
     <atom:link href="https://rwatoday.news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>RWA This Week — Issue #010</title>
+      <link>https://rwatoday.news/rwa-this-week-010</link>
+      <guid isPermaLink="true">https://rwatoday.news/rwa-this-week-010</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Correction: SPCX earnings August 4, not August 6. $109B unlock August 6. Stock at $112.55. CLARITY Act 10 days, no cloture filed. RWA 80% concentrated in one asset class.</description>
+      <dc:creator>RWAToday.news</dc:creator>
+    </item>
+    <item>
+      <title>SpaceX SPCX Earnings Are August 4. The $109B Lockup Unlock Is August 6. Stock at $112.55.</title>
+      <link>https://rwatoday.news/spacex-spcx-tokenized-shares-eleven-day-recap</link>
+      <guid isPermaLink="true">https://rwatoday.news/spacex-spcx-tokenized-shares-eleven-day-recap</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>Correcting our earlier coverage. 911.5 million shares unlock August 6. SPCX below IPO at $112.55. Congress members buying shares. Q2 report sets the full-year narrative.</description>
+      <dc:creator>RWAToday.news</dc:creator>
+    </item>
+    <item>
+      <title>Ten Days Left. The CLARITY Act Still Has No Senate Floor Vote Scheduled.</title>
+      <link>https://rwatoday.news/clarity-act-senate-vote-final-10-days-august-2026</link>
+      <guid isPermaLink="true">https://rwatoday.news/clarity-act-senate-vote-final-10-days-august-2026</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>August 10 is recess. No cloture motion filed. Polymarket 37%. NY AG formally opposed. Trump agreed to ethics. What passage adds vs. what has already happened without it.</description>
+      <dc:creator>RWAToday.news</dc:creator>
+    </item>
+    <item>
+      <title>The Honest RWA Data: 80% in One Asset Class, 10% in DeFi, 47.9% on Ethereum</title>
+      <link>https://rwatoday.news/rwa-market-concentration-ethereum-defi-gap-2026</link>
+      <guid isPermaLink="true">https://rwatoday.news/rwa-market-concentration-ethereum-defi-gap-2026</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>The $33.5B market tripled year-over-year — almost entirely via Treasuries and private credit. Only 10% deployed in DeFi. Why the numbers you see range from $19B to $60B and which to trust.</description>
+      <dc:creator>RWAToday.news</dc:creator>
+    </item>
     <item>
       <title>The Lettuce and Egg Recalls This Week Show Exactly Why Food Supply Chains Need Blockchain</title>
       <link>https://rwatoday.news/food-supply-chain-blockchain-lettuce-egg-recall-2026</link>
@@ -189,14 +221,6 @@
       <guid isPermaLink="true">https://rwatoday.news/rwa-mainstream-adoption-demystifying-rwa-misconceptions</guid>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
       <description>'Just crypto with extra steps.' 'Need to be a crypto expert.' 'The yield is too good to be true.' Six misconceptions — and why none hold up under scrutiny.</description>
-      <dc:creator>RWAToday.news</dc:creator>
-    </item>
-    <item>
-      <title>SpaceX SPCX: +67% Then −32%. How the Tokenized Shares Held Up Through It All.</title>
-      <link>https://rwatoday.news/spacex-spcx-tokenized-shares-eleven-day-recap</link>
-      <guid isPermaLink="true">https://rwatoday.news/spacex-spcx-tokenized-shares-eleven-day-recap</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
-      <description>IPO at $135. All-time high $225.64 four days later. Now back to $154. Eleven days of SPCX price action stress-tested tokenized equity infrastructure. Here is what the on-chain products did.</description>
       <dc:creator>RWAToday.news</dc:creator>
     </item>
     <item>
