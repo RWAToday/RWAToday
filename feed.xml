@@ -5,8 +5,48 @@
     <link>https://rwatoday.news</link>
     <description>Independent RWA tokenization news.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 Jul 2026 18:09:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 16:29:59 +0000</lastBuildDate>
     <atom:link href="https://rwatoday.news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>SpaceX Q2 2026: Revenue Beat. Capex Miss. Stock Down 8.56% After Hours. What Tokenized SPCX Holders Need to Know.</title>
+      <link>https://rwatoday.news/spacex-spcx-q2-2026-earnings-results-tokenized</link>
+      <guid isPermaLink="true">https://rwatoday.news/spacex-spcx-q2-2026-earnings-results-tokenized</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <description>$7.81B revenue beat. EPS dramatically beat. 12M Starlink subscribers. Then: $18.37B quarterly capex — mostly xAI — sent SPCX down 8.56% after hours to $114.60. The August 6 unlock arrives regardless.</description>
+      <dc:creator>RWAToday.news</dc:creator>
+    </item>
+    <item>
+      <title>Tokenized Real Estate: The Largest Asset Class on Earth Has the Smallest RWA Footprint. Here Is Why.</title>
+      <link>https://rwatoday.news/tokenized-real-estate-realt-lofty-propy-2026</link>
+      <guid isPermaLink="true">https://rwatoday.news/tokenized-real-estate-realt-lofty-propy-2026</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Real estate is $330 trillion globally and just $2-3 billion on-chain. The gap reflects real structural challenges — and what RealT, Lofty, and Propy show is actually working.</description>
+      <dc:creator>RWAToday.news</dc:creator>
+    </item>
+    <item>
+      <title>The People Who Need RWA Tokenization Most Are Not in New York. They're in Lagos, Buenos Aires, and Istanbul.</title>
+      <link>https://rwatoday.news/rwa-tokenization-emerging-markets-nigeria-argentina-2026</link>
+      <guid isPermaLink="true">https://rwatoday.news/rwa-tokenization-emerging-markets-nigeria-argentina-2026</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Nigeria naira lost 70% vs USD. Argentina hit 200%+ inflation. Turkey shed 450% purchasing power. Tokenized US Treasury yield is not mildly useful for these people — it is transformative.</description>
+      <dc:creator>RWAToday.news</dc:creator>
+    </item>
+    <item>
+      <title>Tokenized Insurance: How Smart Contracts Pay Kenyan Farmers Before the Claims Adjuster Knows There Was a Drought</title>
+      <link>https://rwatoday.news/tokenized-insurance-parametric-blockchain-rwa-2026</link>
+      <guid isPermaLink="true">https://rwatoday.news/tokenized-insurance-parametric-blockchain-rwa-2026</guid>
+      <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Over $1T in global crops are uninsured because claims adjusters cost more than the policies are worth. Parametric blockchain insurance pays automatically when an index triggers. No adjuster. No dispute.</description>
+      <dc:creator>RWAToday.news</dc:creator>
+    </item>
+    <item>
+      <title>AI Data Centers Are Consuming the Grid. Your Electricity Bill Is How You're Paying for It.</title>
+      <link>https://rwatoday.news/ai-data-centers-power-grid-blockchain-rwa-energy-2026</link>
+      <guid isPermaLink="true">https://rwatoday.news/ai-data-centers-power-grid-blockchain-rwa-energy-2026</guid>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <description>By 2027 US data centers will draw 66 GW — France's entire generating capacity. Residential electricity is up 36% since 2020, projected 40% more by 2030. A handful of AI CEOs are locking up power access. Here is the RWA case for decentralizing the grid.</description>
+      <dc:creator>RWAToday.news</dc:creator>
+    </item>
     <item>
       <title>RWA This Week — Issue #010</title>
       <link>https://rwatoday.news/rwa-this-week-010</link>
