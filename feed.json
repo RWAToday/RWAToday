@@ -4,10 +4,80 @@
   "home_page_url": "https://rwatoday.news",
   "feed_url": "https://rwatoday.news/feed.json",
   "_rwatoday": {
-    "total_articles": 101,
-    "generated": "2026-08-05T16:29:59Z"
+    "total_articles": 104,
+    "generated": "2026-08-17T18:49:18Z"
   },
   "items": [
+    {
+      "id": "https://rwatoday.news/give-blockchain-charitable-donations-transparency-2026",
+      "url": "https://rwatoday.news/give-blockchain-charitable-donations-transparency-2026",
+      "title": "You Can't Track Where Your Donation Went. Blockchain Changes That.",
+      "content_text": "12% of donors don't give because they distrust charities. 68% would give more with verifiable proof. Blockchain creates the immutable donation trail the sector has never had. GiveTrack, WFP Building Blocks, Endaoment, and Give Blockchain are building it.",
+      "image": "https://rwatoday.news/og-image.png",
+      "date_published": "2026-08-17T00:00:00Z",
+      "tags": [
+        "Analysis",
+        "Social Impact",
+        "Blockchain"
+      ],
+      "authors": [
+        {
+          "name": "RWAToday.news",
+          "url": "https://rwatoday.news"
+        }
+      ],
+      "_rwatoday": {
+        "slug": "give-blockchain-charitable-donations-transparency-2026",
+        "category": "Analysis · Social Impact · Blockchain",
+        "date_display": "August 17, 2026"
+      }
+    },
+    {
+      "id": "https://rwatoday.news/clarity-act-senate-vote-final-10-days-august-2026",
+      "url": "https://rwatoday.news/clarity-act-senate-vote-final-10-days-august-2026",
+      "title": "The Senate Left for Recess Without Voting on the CLARITY Act. September 15 Is What Remains.",
+      "content_text": "Cloture filed August 8. Senate adjourned August 10 without a floor vote. September 15 procedural vote next. Polymarket at 17%. About 14 working days before midterm campaign season ends the window.",
+      "image": "https://rwatoday.news/og-image.png",
+      "date_published": "2026-08-17T00:00:00Z",
+      "tags": [
+        "Policy",
+        "Regulation",
+        "Update"
+      ],
+      "authors": [
+        {
+          "name": "RWAToday.news",
+          "url": "https://rwatoday.news"
+        }
+      ],
+      "_rwatoday": {
+        "slug": "clarity-act-senate-vote-final-10-days-august-2026",
+        "category": "Policy · Regulation · Update",
+        "date_display": "August 17, 2026"
+      }
+    },
+    {
+      "id": "https://rwatoday.news/rwa-this-week-011",
+      "url": "https://rwatoday.news/rwa-this-week-011",
+      "title": "RWA This Week — Issue #011",
+      "content_text": "RWA market at $36B. CLARITY Act September 15. Blockchain charitable giving: GiveTrack, WFP, Give Blockchain. SPCX stabilizing. August 17, 2026.",
+      "image": "https://rwatoday.news/og-image.png",
+      "date_published": "2026-08-17T00:00:00Z",
+      "tags": [
+        "Weekly Roundup"
+      ],
+      "authors": [
+        {
+          "name": "RWAToday.news",
+          "url": "https://rwatoday.news"
+        }
+      ],
+      "_rwatoday": {
+        "slug": "rwa-this-week-011",
+        "category": "Weekly Roundup",
+        "date_display": "August 17, 2026"
+      }
+    },
     {
       "id": "https://rwatoday.news/spacex-spcx-q2-2026-earnings-results-tokenized",
       "url": "https://rwatoday.news/spacex-spcx-q2-2026-earnings-results-tokenized",
