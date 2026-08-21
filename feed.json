@@ -4,10 +4,125 @@
   "home_page_url": "https://rwatoday.news",
   "feed_url": "https://rwatoday.news/feed.json",
   "_rwatoday": {
-    "total_articles": 104,
-    "generated": "2026-08-17T18:49:18Z"
+    "total_articles": 109,
+    "generated": "2026-08-21T14:21:15Z"
   },
   "items": [
+    {
+      "id": "https://rwatoday.news/rwa-for-the-rest-of-us-tvl-total-value-locked",
+      "url": "https://rwatoday.news/rwa-for-the-rest-of-us-tvl-total-value-locked",
+      "title": "What Is TVL (Total Value Locked)? The Ultimate Guide for RWA Investors [2026]",
+      "content_text": "TVL is the most-cited RWA metric and one of the most misunderstood. This ultimate guide explains what it measures, what it misses, and what the $38B RWA TVL figure actually tells you.",
+      "image": "https://rwatoday.news/og-image.png",
+      "date_published": "2026-01-01T00:00:00Z",
+      "tags": [
+        "Education"
+      ],
+      "authors": [
+        {
+          "name": "RWAToday.news",
+          "url": "https://rwatoday.news"
+        }
+      ],
+      "_rwatoday": {
+        "slug": "rwa-for-the-rest-of-us-tvl-total-value-locked",
+        "category": "Education",
+        "date_display": "2026-08-21"
+      }
+    },
+    {
+      "id": "https://rwatoday.news/rwa-token-standards-erc20-erc1400-erc3525-erc7943-guide",
+      "url": "https://rwatoday.news/rwa-token-standards-erc20-erc1400-erc3525-erc7943-guide",
+      "title": "The Ultimate Guide to RWA Token Standards: ERC-20, ERC-1400, ERC-3525, and ERC-7943 Explained [2026]",
+      "content_text": "Every tokenized asset is built on a token standard. Get it wrong and your token can't list or integrate with DeFi. This guide covers ERC-20, ERC-1400, ERC-3525, and the 2026 convergence standard ERC-7943.",
+      "image": "https://rwatoday.news/og-image.png",
+      "date_published": "2026-01-01T00:00:00Z",
+      "tags": [
+        "Education",
+        "Infrastructure"
+      ],
+      "authors": [
+        {
+          "name": "RWAToday.news",
+          "url": "https://rwatoday.news"
+        }
+      ],
+      "_rwatoday": {
+        "slug": "rwa-token-standards-erc20-erc1400-erc3525-erc7943-guide",
+        "category": "Education · Infrastructure",
+        "date_display": "2026-08-21"
+      }
+    },
+    {
+      "id": "https://rwatoday.news/rwa-perpetuals-complete-guide-524-billion-2026",
+      "url": "https://rwatoday.news/rwa-perpetuals-complete-guide-524-billion-2026",
+      "title": "RWA Perpetuals: The Complete Guide to the $524 Billion Market Most Investors Have Never Heard Of [2026]",
+      "content_text": "$524.79B in Q1 2026 trading volume. More than the entire spot RWA market cap. Binance controls 68% of volume. Gold perps hit 8.3% of COMEX. This complete guide explains what RWA perpetuals are and why the numbers are this large.",
+      "image": "https://rwatoday.news/og-image.png",
+      "date_published": "2026-01-01T00:00:00Z",
+      "tags": [
+        "Analysis",
+        "Derivatives"
+      ],
+      "authors": [
+        {
+          "name": "RWAToday.news",
+          "url": "https://rwatoday.news"
+        }
+      ],
+      "_rwatoday": {
+        "slug": "rwa-perpetuals-complete-guide-524-billion-2026",
+        "category": "Analysis · Derivatives",
+        "date_display": "2026-08-21"
+      }
+    },
+    {
+      "id": "https://rwatoday.news/what-you-own-when-you-buy-tokenized-stock-complete-guide",
+      "url": "https://rwatoday.news/what-you-own-when-you-buy-tokenized-stock-complete-guide",
+      "title": "What Do You Actually Own When You Buy a Tokenized Stock? The Complete 2026 Guide",
+      "content_text": "Tokenized stocks are growing fast — $9B trading volume, 800% YTD growth. But most buyers don't know the structure. Debt security or equity? Voting rights? What if the issuer fails? Every question answered.",
+      "image": "https://rwatoday.news/og-image.png",
+      "date_published": "2026-01-01T00:00:00Z",
+      "tags": [
+        "Education",
+        "DYOR"
+      ],
+      "authors": [
+        {
+          "name": "RWAToday.news",
+          "url": "https://rwatoday.news"
+        }
+      ],
+      "_rwatoday": {
+        "slug": "what-you-own-when-you-buy-tokenized-stock-complete-guide",
+        "category": "Education · DYOR",
+        "date_display": "2026-08-21"
+      }
+    },
+    {
+      "id": "https://rwatoday.news/hong-kong-singapore-uae-rwa-tokenization-regulation-2026",
+      "url": "https://rwatoday.news/hong-kong-singapore-uae-rwa-tokenization-regulation-2026",
+      "title": "Hong Kong vs. Singapore vs. UAE: Who Is Winning the Global RWA Race in 2026?",
+      "content_text": "Hong Kong leads on product breadth, Singapore on cross-border coordination, UAE on speed. The US leads institutional infrastructure but blocks retail access. Complete 2026 scorecard — and why CLARITY matters globally.",
+      "image": "https://rwatoday.news/og-image.png",
+      "date_published": "2026-01-01T00:00:00Z",
+      "tags": [
+        "Analysis",
+        "Global",
+        "Regulation"
+      ],
+      "authors": [
+        {
+          "name": "RWAToday.news",
+          "url": "https://rwatoday.news"
+        }
+      ],
+      "_rwatoday": {
+        "slug": "hong-kong-singapore-uae-rwa-tokenization-regulation-2026",
+        "category": "Analysis · Global · Regulation",
+        "date_display": "2026-08-21"
+      }
+    },
     {
       "id": "https://rwatoday.news/give-blockchain-charitable-donations-transparency-2026",
       "url": "https://rwatoday.news/give-blockchain-charitable-donations-transparency-2026",
