@@ -4,10 +4,150 @@
   "home_page_url": "https://rwatoday.news",
   "feed_url": "https://rwatoday.news/feed.json",
   "_rwatoday": {
-    "total_articles": 109,
-    "generated": "2026-08-21T14:21:15Z"
+    "total_articles": 115,
+    "generated": "2026-08-24T18:02:01Z"
   },
   "items": [
+    {
+      "id": "https://rwatoday.news/what-is-tokenization-ultimate-guide-real-world-assets-2026",
+      "url": "https://rwatoday.news/what-is-tokenization-ultimate-guide-real-world-assets-2026",
+      "title": "What Is Tokenization? The Ultimate Guide to Real-World Asset Tokenization [2026]",
+      "content_text": "The complete guide: what tokenization is, how it works step by step, the six genuine benefits, the real risks, and the $38B market snapshot. Everything a first-time reader needs.",
+      "image": "https://rwatoday.news/og-image.png",
+      "date_published": "2026-01-01T00:00:00Z",
+      "tags": [
+        "Education",
+        "Beginner"
+      ],
+      "authors": [
+        {
+          "name": "RWAToday.news",
+          "url": "https://rwatoday.news"
+        }
+      ],
+      "_rwatoday": {
+        "slug": "what-is-tokenization-ultimate-guide-real-world-assets-2026",
+        "category": "Education · Beginner",
+        "date_display": "2026-08-24"
+      }
+    },
+    {
+      "id": "https://rwatoday.news/top-voices-rwa-larry-fink-blackrock-tokenization",
+      "url": "https://rwatoday.news/top-voices-rwa-larry-fink-blackrock-tokenization",
+      "title": "Larry Fink Says Tokenization Is Finance's Next Evolution. He's Not Just Talking — BlackRock Is Building It.",
+      "content_text": "In his 2026 Annual Chairman's Letter, Fink compared tokenization to the 1996 internet. He manages $14T. BUIDL is $2.56B. He moved it to DeFi. Here is what he said and why it matters.",
+      "image": "https://rwatoday.news/og-image.png",
+      "date_published": "2026-01-01T00:00:00Z",
+      "tags": [
+        "Top Voices in RWA",
+        "#06"
+      ],
+      "authors": [
+        {
+          "name": "RWAToday.news",
+          "url": "https://rwatoday.news"
+        }
+      ],
+      "_rwatoday": {
+        "slug": "top-voices-rwa-larry-fink-blackrock-tokenization",
+        "category": "Top Voices in RWA · #06",
+        "date_display": "2026-08-24"
+      }
+    },
+    {
+      "id": "https://rwatoday.news/rwa-dyor-how-to-evaluate-rwa-team-part-03",
+      "url": "https://rwatoday.news/rwa-dyor-how-to-evaluate-rwa-team-part-03",
+      "title": "How to Evaluate the Team Behind Any RWA Product — DYOR in Tokenized Assets Part 03",
+      "content_text": "Most investors evaluate teams last. They should do it first. Regulatory fluency, custodian relationships, red flags, green flags, and the one question that cuts through everything.",
+      "image": "https://rwatoday.news/og-image.png",
+      "date_published": "2026-01-01T00:00:00Z",
+      "tags": [
+        "Education",
+        "DYOR",
+        "Part 03"
+      ],
+      "authors": [
+        {
+          "name": "RWAToday.news",
+          "url": "https://rwatoday.news"
+        }
+      ],
+      "_rwatoday": {
+        "slug": "rwa-dyor-how-to-evaluate-rwa-team-part-03",
+        "category": "Education · DYOR · Part 03",
+        "date_display": "2026-08-24"
+      }
+    },
+    {
+      "id": "https://rwatoday.news/aviva-ripple-xrpl-tokenized-fund-central-bank-ireland-2026",
+      "url": "https://rwatoday.news/aviva-ripple-xrpl-tokenized-fund-central-bank-ireland-2026",
+      "title": "Aviva Investors and Ripple Just Launched the First Central Bank of Ireland-Approved Tokenized Fund on a Public Blockchain",
+      "content_text": "July 29: first CBI-approved tokenized fund on a public chain. BNY Mellon custody, Komainu digital custody, Licuido tech. Ripple then invested in ZILO and Licuido on August 3.",
+      "image": "https://rwatoday.news/og-image.png",
+      "date_published": "2026-01-01T00:00:00Z",
+      "tags": [
+        "Markets",
+        "Infrastructure"
+      ],
+      "authors": [
+        {
+          "name": "RWAToday.news",
+          "url": "https://rwatoday.news"
+        }
+      ],
+      "_rwatoday": {
+        "slug": "aviva-ripple-xrpl-tokenized-fund-central-bank-ireland-2026",
+        "category": "Markets · Infrastructure",
+        "date_display": "2026-08-24"
+      }
+    },
+    {
+      "id": "https://rwatoday.news/robinhood-ceo-sec-tokenized-stocks-americans-2026",
+      "url": "https://rwatoday.news/robinhood-ceo-sec-tokenized-stocks-americans-2026",
+      "title": "Robinhood Sells Tokenized Stocks in 120 Countries. Americans Can't Buy Them. The CEO Is Calling on the SEC to Change That.",
+      "content_text": "190+ US stocks tokenized for 120+ countries. 35 million American users blocked. CEO Vlad Tenev publicly calling on SEC. Here is what he is asking for.",
+      "image": "https://rwatoday.news/og-image.png",
+      "date_published": "2026-01-01T00:00:00Z",
+      "tags": [
+        "Markets",
+        "Policy"
+      ],
+      "authors": [
+        {
+          "name": "RWAToday.news",
+          "url": "https://rwatoday.news"
+        }
+      ],
+      "_rwatoday": {
+        "slug": "robinhood-ceo-sec-tokenized-stocks-americans-2026",
+        "category": "Markets · Policy",
+        "date_display": "2026-08-24"
+      }
+    },
+    {
+      "id": "https://rwatoday.news/blackrock-buidl-uniswap-defi-rwa-2026",
+      "url": "https://rwatoday.news/blackrock-buidl-uniswap-defi-rwa-2026",
+      "title": "BlackRock Put BUIDL on Uniswap. Here Is What That Actually Means — and the Catch Most Coverage Missed.",
+      "content_text": "$2.56B BUIDL on UniswapX. UNI jumped 25%. BlackRock bought UNI tokens. DeFi-TradFi bridge built. Here is what the integration actually does, and the important catch.",
+      "image": "https://rwatoday.news/og-image.png",
+      "date_published": "2026-01-01T00:00:00Z",
+      "tags": [
+        "Markets",
+        "Infrastructure",
+        "DeFi"
+      ],
+      "authors": [
+        {
+          "name": "RWAToday.news",
+          "url": "https://rwatoday.news"
+        }
+      ],
+      "_rwatoday": {
+        "slug": "blackrock-buidl-uniswap-defi-rwa-2026",
+        "category": "Markets · Infrastructure · DeFi",
+        "date_display": "2026-08-24"
+      }
+    },
     {
       "id": "https://rwatoday.news/rwa-for-the-rest-of-us-tvl-total-value-locked",
       "url": "https://rwatoday.news/rwa-for-the-rest-of-us-tvl-total-value-locked",
