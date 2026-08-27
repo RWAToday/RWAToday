@@ -4,10 +4,148 @@
   "home_page_url": "https://rwatoday.news",
   "feed_url": "https://rwatoday.news/feed.json",
   "_rwatoday": {
-    "total_articles": 115,
-    "generated": "2026-08-24T18:02:01Z"
+    "total_articles": 121,
+    "generated": "2026-08-27T04:46:51Z"
   },
   "items": [
+    {
+      "id": "https://rwatoday.news/rwa-market-approaches-40-billion-milestone-2026",
+      "url": "https://rwatoday.news/rwa-market-approaches-40-billion-milestone-2026",
+      "title": "The RWA Market Is Approaching $40 Billion. Here Is How It Got There and What Comes Next.",
+      "content_text": "256.7% growth in 15 months. 1.7 million holders. Six categories above $1B. Here is the full breakdown of how the market reached $40B and what pushes it toward $100B.",
+      "image": "https://rwatoday.news/og-image.png",
+      "date_published": "2026-01-01T00:00:00Z",
+      "tags": [
+        "Markets",
+        "Milestone"
+      ],
+      "authors": [
+        {
+          "name": "RWAToday.news",
+          "url": "https://rwatoday.news"
+        }
+      ],
+      "_rwatoday": {
+        "slug": "rwa-market-approaches-40-billion-milestone-2026",
+        "category": "Markets · Milestone",
+        "date_display": "2026-08-26"
+      }
+    },
+    {
+      "id": "https://rwatoday.news/rwa-97-percent-problem-us-retail-access-tokenized-assets-2026",
+      "url": "https://rwatoday.news/rwa-97-percent-problem-us-retail-access-tokenized-assets-2026",
+      "title": "97% of Tokenized RWA Value Is Inaccessible to US Retail Investors. Here Is Why — and What Would Fix It.",
+      "content_text": "Robinhood sells tokenized stocks in 120 countries — not to Americans. Ondo USDY blocked to US persons. The regulatory architecture that caused it and what would actually change it.",
+      "image": "https://rwatoday.news/og-image.png",
+      "date_published": "2026-01-01T00:00:00Z",
+      "tags": [
+        "Analysis",
+        "Policy",
+        "Access"
+      ],
+      "authors": [
+        {
+          "name": "RWAToday.news",
+          "url": "https://rwatoday.news"
+        }
+      ],
+      "_rwatoday": {
+        "slug": "rwa-97-percent-problem-us-retail-access-tokenized-assets-2026",
+        "category": "Analysis · Policy · Access",
+        "date_display": "2026-08-26"
+      }
+    },
+    {
+      "id": "https://rwatoday.news/tokenized-private-equity-236-percent-best-performing-rwa-2026",
+      "url": "https://rwatoday.news/tokenized-private-equity-236-percent-best-performing-rwa-2026",
+      "title": "Tokenized Private Equity Is Up 236% YTD. The Best-Performing RWA Category Nobody Writes About.",
+      "content_text": "RWA.xyz data: PE +236.36% YTD. VC +159.15%. Stocks +11.56%. Treasuries +0.70%. KKR, Mubadala, Hamilton Lane, Apollo all live.",
+      "image": "https://rwatoday.news/og-image.png",
+      "date_published": "2026-01-01T00:00:00Z",
+      "tags": [
+        "Data",
+        "Analysis"
+      ],
+      "authors": [
+        {
+          "name": "RWAToday.news",
+          "url": "https://rwatoday.news"
+        }
+      ],
+      "_rwatoday": {
+        "slug": "tokenized-private-equity-236-percent-best-performing-rwa-2026",
+        "category": "Data · Analysis",
+        "date_display": "2026-08-26"
+      }
+    },
+    {
+      "id": "https://rwatoday.news/dtcc-october-2026-full-commercial-launch-tokenized-securities",
+      "url": "https://rwatoday.news/dtcc-october-2026-full-commercial-launch-tokenized-securities",
+      "title": "DTCC October 2026: What Changes When Tokenized Securities Go From Pilot to Full Commercial Infrastructure.",
+      "content_text": "July pilot worked. October: all Russell 1000, major ETFs, benchmark Treasuries — standard service for every DTC participant. $114T eligible.",
+      "image": "https://rwatoday.news/og-image.png",
+      "date_published": "2026-01-01T00:00:00Z",
+      "tags": [
+        "Markets",
+        "Infrastructure"
+      ],
+      "authors": [
+        {
+          "name": "RWAToday.news",
+          "url": "https://rwatoday.news"
+        }
+      ],
+      "_rwatoday": {
+        "slug": "dtcc-october-2026-full-commercial-launch-tokenized-securities",
+        "category": "Markets · Infrastructure",
+        "date_display": "2026-08-26"
+      }
+    },
+    {
+      "id": "https://rwatoday.news/tether-beyond-usdt-hadron-saudi-arabia-rwa-infrastructure-2026",
+      "url": "https://rwatoday.news/tether-beyond-usdt-hadron-saudi-arabia-rwa-infrastructure-2026",
+      "title": "Tether Is Building Something Much Bigger Than USDT. The Saudi Arabia Move Just Made It Visible.",
+      "content_text": "USDT ($184.6B) as settlement, XAUT ($2.6B) as gold, Hadron as tokenization platform. Saudi Arabia real estate is the beachhead. Energy/infrastructure next.",
+      "image": "https://rwatoday.news/og-image.png",
+      "date_published": "2026-01-01T00:00:00Z",
+      "tags": [
+        "Analysis",
+        "Infrastructure"
+      ],
+      "authors": [
+        {
+          "name": "RWAToday.news",
+          "url": "https://rwatoday.news"
+        }
+      ],
+      "_rwatoday": {
+        "slug": "tether-beyond-usdt-hadron-saudi-arabia-rwa-infrastructure-2026",
+        "category": "Analysis · Infrastructure",
+        "date_display": "2026-08-26"
+      }
+    },
+    {
+      "id": "https://rwatoday.news/rwa-this-week-012",
+      "url": "https://rwatoday.news/rwa-this-week-012",
+      "title": "RWA This Week — Issue #012",
+      "content_text": "RWA approaching $40B. DTCC October 5 weeks away. Tether Saudi Arabia RWA strategy. 97% retail blocked. PE up 236%. August 26, 2026.",
+      "image": "https://rwatoday.news/og-image.png",
+      "date_published": "2026-01-01T00:00:00Z",
+      "tags": [
+        "Weekly Roundup"
+      ],
+      "authors": [
+        {
+          "name": "RWAToday.news",
+          "url": "https://rwatoday.news"
+        }
+      ],
+      "_rwatoday": {
+        "slug": "rwa-this-week-012",
+        "category": "Weekly Roundup",
+        "date_display": "2026-08-26"
+      }
+    },
     {
       "id": "https://rwatoday.news/what-is-tokenization-ultimate-guide-real-world-assets-2026",
       "url": "https://rwatoday.news/what-is-tokenization-ultimate-guide-real-world-assets-2026",
