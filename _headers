@@ -1,0 +1,21 @@
+# RWAToday.news — Cloudflare Pages Headers
+
+/feed.json
+  Access-Control-Allow-Origin: *
+  Content-Type: application/json; charset=utf-8
+  Cache-Control: public, max-age=3600
+
+/feed.xml
+  Access-Control-Allow-Origin: *
+  Content-Type: application/rss+xml; charset=utf-8
+  Cache-Control: public, max-age=3600
+
+/widget.js
+  Access-Control-Allow-Origin: *
+  Content-Type: application/javascript; charset=utf-8
+  Cache-Control: public, max-age=86400
+
+/*.html
+  X-Frame-Options: SAMEORIGIN
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin

@@ -4,10 +4,58 @@
   "home_page_url": "https://rwatoday.news",
   "feed_url": "https://rwatoday.news/feed.json",
   "_rwatoday": {
-    "total_articles": 121,
-    "generated": "2026-08-27T04:46:51Z"
+    "total_articles": 123,
+    "generated": "2026-08-27T15:09:38Z"
   },
   "items": [
+    {
+      "id": "https://rwatoday.news/tokenized-equities-coingecko-report-spacex-pre-ipo-perpetuals-2026",
+      "url": "https://rwatoday.news/tokenized-equities-coingecko-report-spacex-pre-ipo-perpetuals-2026",
+      "title": "Tokenized Equities Just Got Its First Report Card. CoinGecko's Findings Are Remarkable — and the 40% Crash Nobody Talked About.",
+      "content_text": "Perpetuals at $376.3B vs $7.5B spot (up 209x). SpaceX pre-IPO within 4.9% of opening. 10 assets = 76.6% of volume. Anthropic/OpenAI legal event wiped 40% overnight. Here is what it all means.",
+      "image": "https://rwatoday.news/og-image.png",
+      "date_published": "2026-01-01T00:00:00Z",
+      "tags": [
+        "Analysis",
+        "Tokenized Equities",
+        "Report"
+      ],
+      "authors": [
+        {
+          "name": "RWAToday.news",
+          "url": "https://rwatoday.news"
+        }
+      ],
+      "_rwatoday": {
+        "slug": "tokenized-equities-coingecko-report-spacex-pre-ipo-perpetuals-2026",
+        "category": "Analysis · Tokenized Equities · Report",
+        "date_display": "2026-08-27"
+      }
+    },
+    {
+      "id": "https://rwatoday.news/element-united-blockchain-sustainable-mining-transparency-2026",
+      "url": "https://rwatoday.news/element-united-blockchain-sustainable-mining-transparency-2026",
+      "title": "The Minerals in Your Phone Come From Somewhere. Blockchain Is Starting to Prove Where — and Under What Conditions.",
+      "content_text": "60%+ of mining companies cite supply chain transparency as their biggest challenge. Blockchain makes provenance unforeable and certification economically valuable. IBM/MineHub, Circulor, Minespider, and Element United are each building part of the answer.",
+      "image": "https://rwatoday.news/og-image.png",
+      "date_published": "2026-01-01T00:00:00Z",
+      "tags": [
+        "Analysis",
+        "Social Impact",
+        "Supply Chain"
+      ],
+      "authors": [
+        {
+          "name": "RWAToday.news",
+          "url": "https://rwatoday.news"
+        }
+      ],
+      "_rwatoday": {
+        "slug": "element-united-blockchain-sustainable-mining-transparency-2026",
+        "category": "Analysis · Social Impact · Supply Chain",
+        "date_display": "2026-08-27"
+      }
+    },
     {
       "id": "https://rwatoday.news/rwa-market-approaches-40-billion-milestone-2026",
       "url": "https://rwatoday.news/rwa-market-approaches-40-billion-milestone-2026",
